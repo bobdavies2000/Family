@@ -1,0 +1,378 @@
+:Base ftw32.hlp
+:Title Family Tree Maker Help Topics
+1 Getting started
+2 Basic Family File operations
+3 Creating new files=creating_new_files
+3 Opening Family Files=opening_files
+3 Opening Family Tree Maker for DOS files=opening_dos_files
+3 Opening PAF files=opening_paf_files
+3 GEDCOM import and export
+4 Importing GEDCOM files into Family Tree Maker=GEDCOM_import
+4 Exporting GEDCOM files from Family Tree Maker=GEDCOM_export
+2 Saving Family Files=saving_files
+2 Backing up Family Files=backing_up_files
+2 Opening backup files=retrieving_backups
+2 Copying/Exporting Family Files=copying_files
+2 Copying/Exporting groups of individuals=copying_part
+2 Combining files=combining_files
+2 Finding files=finding_files
+2 Deleting files=deleting_files
+2 Exiting Family Tree Maker=exiting_ftw
+2 The toolbar and menu commands
+3 Toolbar=toolbar
+3 File menu=file_menu
+3 Edit menu=edit_menu
+3 View menu=view_menu
+3 Books menu=books_menu
+3 People menu=people_menu
+3 Picture/Object menu=picob_menu
+3 Contents menu=contents_menu
+3 Format menu=format_menu
+3 Internet menu=Internet_menu
+3 Prefs submenu=preferences_menu
+3 Help menu=help_menu
+2 Using the mouse and keyboard
+3 Using the mouse=using_mouse
+3 Function keys=function_keys
+3 Editing keys=editing_keys
+2 Customizing Family Tree Maker
+3 How to: select startup preferences=startup_preferences
+3 How to: choose the date format and units of measure=date_format_preferences
+3 How to: select title preferences (Mr., Mrs., etc.)=title_prefs
+3 How to: change field labels=field_label_preferences
+3 How to: select Fastfield preferences =fastfield_preferences
+3 How to: select spell check preferences=spell_check_prefs
+3 How to: assign automatic reference numbers=auto_ref_prefs
+3 How to: select errors to check for during data entry=data_error_prefs
+3 Selecting FamilyFinder searching preferences=fam_finder_prefs
+3 Selecting defaults for picture resolution and compression=scrapbook_preferences
+3 How to: select Help system preferences=help_prefs
+1 Entering and editing information
+2 Entering family information
+3 Entering basic information in Family Pages
+4 How to: fill in a Family Page
+5 Entering names=entering_names
+5 Entering dates=entering_dates
+5 Entering locations=entering_locations
+5 Entering information about a marriage=entering_info_abt_marriage
+5 Entering information about children=entering_info_abt_children
+4 How to: check for errors
+5 Checking for errors as you enter data=data_entry_checking
+5 Checking for existing errors=checking_existing_data
+5 Creating Data Errors reports=data_errors_reports
+5 Types of errors that Family Tree Maker finds=error_types
+5 Spell Checking Your Family File=spell_check
+3 How to: note your sources=recording_sources
+3 How to: delete a Master Source=deleting_sources
+3 How to: add another spouse=using_other_spouses
+3 How to: add another set of parents=using_other_parents
+3 How to: add someone whose link is unclear=adding_unrelated_individual
+2 Entering details in the More About dialog boxes=entering_more_about
+3 Entering pictures, sounds, etc. in Scrapbooks
+4 How to: open Scrapbooks=opening_scrapbooks
+4 How to: insert items into Scrapbooks
+5 Picture/Object:  Insert Photo CD Picture=picob_kodak
+5 Picture/Object: Insert Picture from File=picob_file
+5 Picture/Object:  Insert Object=picob_insert_object
+5 Edit: Paste=edit_paste
+5 Edit: Paste Special=edit_paste_special
+3 How to: create captions and categories for Picture/Objects=more_abt_picob_dialog
+3 How to: move around in a Scrapbook=moving_in_scrapbooks
+3 How to: find information in a Scrapbook=finding_picob_in_sb
+4 How to: rearrange Scrapbook items
+5 Sorting Scrapbooks=sorting_scrapbooks
+5 Copying Picture/Objects between Scrapbooks=moving_picob
+5 Deleting Picture/Objects=removing_picob
+4 How to: edit Picture/Objects
+5 Opening a picture for editing=preparing_to_edit_picture
+5 Rotating a picture=rotate_picture
+5 Flipping a picture=flipping_picture
+5 Cropping a picture=cropping_picture
+5 Editing OLE objects=editing_ole_objects
+4 How to: set brightness and contrast
+5 Changing the contrast for a single Picture/Object=contrast_for_single
+5 Changing the brightness for all Picture/Objects=brightness_for_all
+4 How to: set resolution and compression
+5 Selecting the resolution and compression for a single picture=picture_resolution_compression
+5 Selecting defaults for picture resolution and compression=scrapbook_preferences
+4 How to: play objects or view pictures at full size
+5 Viewing a picture at full size=viewing_picob_full_size
+5 Playing an OLE object=playing_ole_objects
+5 Playing a Scrapbook's Picture/Objects sequentially=playing_scrapbooks
+2 Moving between Family Pages
+3 Displaying a parent's Family Page=display_parent_page
+3 Displaying a child's Family Page=display_child_page
+3 Displaying additional spouses=display_spouse_page
+3 Displaying additional parents=display_parents_page
+3 Using the Index of Individuals
+4 How to: scroll through the name list=progressive_search
+4 How to: find a name automatically=using_find_name
+4 How to: put the names in a different order=rearranging_index_individuals
+4 How to: see reports and trees=change_views_from_index
+3 Locating individuals in your Family File
+4 Searching for names=searching_for_names
+4 Searching for other items=searching_for_other
+2 Editing information
+3 Editing text
+4 Cutting and pasting text and Picture/Objects=cutting_text
+4 Copying and pasting text and other items=copying_text
+4 The Undo command=undo_command
+3 Editing the family structure
+4 Removing an individual from your Family File=delete_individual
+4 Removing groups of individuals from your Family File=deleting_groups
+4 Detaching incorrect spouses from each other=detach_spouse
+4 Linking individuals by marriage=attach_spouse
+4 Detaching a child from the wrong parents=detach_child
+4 Linking children to their parents=attach_child
+4 Rearranging children=rearranging_children
+4 Merging duplicate indivduals=merging_duplicates
+4 Merging specific individuals=merge_specific
+1 Printing Family Tree Maker documents
+2 Printing family trees
+3 How to: select a tree type=selecting_tree_type
+3 How to: change a tree's size
+4 Making a tree shorter=making_tree_shorter
+4 Making a tree narrower=making_tree_narrower
+4 Printing continuous forms or banner format trees=print_banner
+3 How to: select people to include
+4 Selecting the primary individual=selecting_prime_individ
+4 Choosing between Descendant and Direct Descendant trees=dt_vs_ddt
+4 Selecting the number of generations=selecting_number_generations
+4 Including duplicate ancestors in Ancestor and Ancestor Fan trees =include_ancestor_dupes
+4 Including duplicate descendants in Descendant and Descendant Fan trees=include_descendant_dupes
+4 Including duplicate descendants in Outline Descendant trees=include_odt_dupes
+4 Including spouses in Outline Descendant trees=include_spouses_odt
+4 Including siblings of the primary individual in Ancestor and Ancestor Fan trees=include_sibs_at
+2 How to: select information to include=selecting_info
+2 How to: select formats for names, dates, etc.=formatting_items
+2 How to: add a title and footnote=adding_title_footnote
+3 How to: select colors and styles
+4 Selecting colors and styles for boxes, lines, and tree borders=choosing_styles_lines
+4 Selecting colors and styles for text =formatting_text_tree
+3 How to: change the layout in box-style trees
+4 Changing the layout in box-style trees=choosing_layout_connections
+4 Changing the width of boxes and Picture/Objects=limiting_box_width
+4 Adding row or column labels=add_row_labels
+2 How to: change the layout in outline-style trees=format_out_desc_trees
+2 How to: show page lines=show_page_lines
+2 How to: zoom in and out=zooming
+3 How to: print a tree
+4 Printing a tree=actually_printing_trees
+4 Changing margins, printers, and page orientation=print_setup
+4 Printing large trees on plotters=print_with_plotter
+4 Printing continuous form trees=print_continuous
+4 Printing  banner trees=print_banner
+4 Adding empty branches to trees=adding_empty_branches
+4 Printing completely empty box-style trees=printing_empty_trees
+2 How to: use a mouse in trees=mouse_in_tree
+2 Printing Family Group Sheets
+3 How to: create a Family Group Sheet=creating_fgs
+3 How to: select information to include=selecting_info_fgs
+3 How to: add a title and footnote=adding_title_footnote_fgs
+3 How to: change the appearance of text=formatting_text_fgs
+3 How to: select formats for the information=formatting_items_fgs
+3 How to: choose how pages break=fgs_print_options
+3 How to: show page lines=show_page_lines
+3 How to: zoom in and out=zooming
+3 How to: print Family Group Sheets
+4 Printing a single Family Group Sheet=actually_printing_fgs
+4 Batch printing Family Group Sheets=batch_printing
+4 Printing a completely empty Family Group Sheet=printing_empty_fgs
+4 Changing margins, printers, and page orientation=print_setup
+2 Printing labels and cards
+3 How to: create labels and cards=display_labels
+3 How to: select people to include
+4 Selecting a group of individuals to print=selecting_individuals_labels
+4 Printing for households or individuals=other_print_options_labels
+2 How to: select information to include=selecting_information_labels
+2 How to: select formats for names, etc.=formatting_information_labels
+3 How to: select colors and styles
+4 Selecting colors and styles for text=formatting_text_labels
+4 Selecting colors and styles for boxes and lines=selecting_borders_labels
+2 How to: change label size and print setup=setup_label_size
+2 How to: select the width for Picture/Objects=selecting_width_picob
+2 How to: sort labels and cards=sorting_labels
+2 How to: zoom in and out=zooming
+2 How to: show page lines=show_page_lines
+3 Printing labels and cards
+4 Printing a set of labels and cards=actually_printing_labels
+4 How to: change label size and print setup=setup_label_size
+3 How to: use a mouse with labels and cards=mouse_labels
+2 Printing calendars
+3 How to: create a calendar=creating_calendars
+3 How to: select people to include
+4 Selecting a group of individuals to include=select_group_individuals
+4 Including or excluding deceased individuals=deceased_individuals
+2 How to: select information to include=selecting_info_calendar
+2 How to: select the date range=selecting_cal_dates
+2 How to: add a subtitle and footnote=adding_title_footnote_calendar
+3 How to: select colors and styles
+4 Selecting colors and styles for boxes and borders=adding_colors_calendar
+4 Selecting colors and styles for text=formatting_text_calendar
+2 How to: zoom in and out=zooming
+2 How to: show page lines=show_page_lines
+3 How to: print a calendar
+4 Printing a calendar=actually_printing_calendar
+4 Changing margins, printers, and page orientation=print_setup
+4 Printing completely empty calendars=printing_empty_calendars
+4 Printing calendars with pictures=print_cal_pictures
+2 Printing Family Pages
+3 Changing the appearance of text in printed Family Pages=fp_changing_text
+3 Changing margins, printers, and page orientation=print_setup
+3 Printing a single Family Page=printing_family_pages
+3 Batch printing a set of Family Pages=batch_printing
+2 Printing reports
+3 How to: select a report type=select_report_type
+3 How to: select people to include
+4 Selecting a group of individuals to include=selecting_individuals_report
+4 Selecting the primary individual in Kinship reports=display_Kinship
+4 Selecting the number of generations in Kinship reports=kinship_generations
+3 How to: select information to include
+4 Selecting information for reports=selecting_information_report
+4 Selecting information for Data Errors reports=selecting_information_error_report
+2 How to: add a title and footnote=adding_title_footnote_report
+2 How to: format names in reports=formatting_items_report
+3 How to: select colors and styles
+4 Selecting colors and styles for text=formatting_text_report
+4 Selecting colors and styles for borders=choosing_borders_report
+2 How to: select the width of each column=report_column_width
+2 How to: sort reports=sorting_report
+2 How to: find someone in a report=finding_in_report
+2 How to: use a mouse with reports=mouse_reports
+2 How to: zoom in and out=zooming
+2 How to: show page lines=show_page_lines
+2 How to: export a report=export_report
+3 How to: print a report
+4 Printing a report=actually_printing_report
+4 Changing margins, printers, and page orientation=print_setup
+2 Printing Genealogy reports
+3 How to: select a Genealogy report type=select_gene_report_type
+3 How to: select the number of generations in Genealogy reports=gene_report_generations
+3 How to: select styles for text=formatting_text_gene_report
+3 How to: add a title=adding_title_gene_report
+3 How to: select other printing options=other_print_gene_report
+3 How to: zoom in and out=zooming
+3 How to: show page lines=show_page_lines
+3 How to: export a Genealogy report=export_gene_report
+3 How to: print a Genealogy report
+4 Printing a Genealogy report=actually_printing_gene_report
+4 Changing margins, printers, and page orientation=print_setup
+2 Displaying and Printing FamilyFinder Report and Online FamilyFinder Report
+3 How to: create or update FamilyFinder Report and Online FamilyFinder Report=create_ff_report
+3 How to: select a group of individuals to include=selecting_individuals_report
+3 How to: select which results to show=ff_results
+3 How to: use a mouse in a FamilyFinder Report=ff_mouse
+3 How to: zoom in and out=zooming
+3 How to: format a FamilyFinder Report
+4 Adding a title and footnote=adding_title_footnote_report
+4 Selecting colors and styles for text=formatting_text_report
+4 Selecting colors and styles for borders=choosing_borders_report
+4 Showing page lines=show_page_lines
+3 How to: print a FamilyFinder Report
+4 Changing margins, printers, and page orientation=print_setup
+4 Printing FamilyFinder report=actually_printing_report
+2 Printing Scrapbook pages
+3 How to: select Picture/Objects to print=selecting_which_picobs
+3 How to: select other information to print=selecting_information_scrapbook
+3 How to: add a title and page numbers=adding_title_scrapbook
+3 How to: select colors and styles
+4 Selecting colors and styles for text=formatting_text_scrapbook
+4 Selecting colors and styles for boxes, lines, and borders=adding_borders_scrapbook
+2 How to: choose the page layout=selecting_sb_page_layout
+2 How to: rearrange Picture/Objects=sorting_scrapbook
+2 How to: zoom in and out=zooming
+2 How to: show page lines=show_page_lines
+3 How to: print Scrapbooks
+4 Printing a single Scrapbook=actually_printing_scrapbook
+4 Batch priniting a set of Scrapbooks=batch_printing
+4 Changing margins, printers, and page orientation=print_setup
+2 Printing More About dialog boxes
+3 How to: change the appearance of text=formatting_text_fgs
+3 Printing More About dialog boxes=printing_more_about
+3 Changing margins, printers, and page orientation=print_setup
+1 Creating Family Books
+2 How to: create a new book=new_book
+2 How to: open an existing book=open_book
+2 How to: work with the contents of your book
+3 How to: add trees, reports, and calendars to your book=add_book_item
+3 How to:  add a Table of Contents and Index to your book=add_book_toc_index
+3 How to: add text to your book
+4 Creating text items in your book=create_text_item
+4 Moving or copying text from one text item to another=copy_text_item
+4 Copying text from another Windows program into a text item=copy_text_item_win_prog
+4 Formatting text in a text item=format_text_item_text
+4 Formatting paragraphs in a text item=format_text_item_para
+4 Spell Checking a text item=spell_check
+4 Saving a text item=save_text_item
+4 Printing a text item=print_text_item
+4 Closing a text item=close_text_item
+3 How to: add pictures to your book
+4 Inserting pictures in a book=insert_book_pic
+4 Moving pictures in a book=move_book_pic
+4 Sizing pictures in a book=size_book_pic
+4 Saving pictures in a book=save_book_pic
+4 Deleting pictures in a book=delete_book_pic
+3 How to: create custom book items=create_misc_book_item
+3 How to: add a bibliography to your book=book_biblio
+3 How to: copy items to another book=copy_book_item
+3 How to: delete items from your book=delete_book_item
+3 How to: customize items in your book=customize_book_item
+3 How to: change item names and other properties=book_item_prop
+3 How to: arrange items in your book=arrange_book_items
+3 How to: change printer settings for items in your book=print_setup_book_item
+2 How to: change book properties=book_prop
+2 How to: add a header and footer to your book=book_head_foot
+2 How to: print your book=print_book
+2 How to: delete a book=delete_book
+1 Batch printing=batch_printing
+1 Changing margins, printers, and page orientation=print_setup
+1 FamilyFinder:  what it is and how to use it
+2 All about FamilyFinder=ff_overview
+2 How to: open Family Archives=opening_archives
+2 How to: use Introduction, Contents, Index, and Information pages
+3 Using Introduction pages=using_intro_pages
+3 Using Contents pages=using_contents_pages
+3 Using Index pages=using_index_pages
+3 Using Information pages=using_information_pages
+1 How to: move between pages=moving_in_archives
+1 How to: scroll through an index=scrolling_through_index
+2 How to: search for names
+3 Searching in the FamilyFinder Index=searching_ffi
+3 Searching in Family Archives=searching_family_archives
+3 Searching in World Family Tree Archives=searching_wft
+3 Selecting FamilyFinder searching preferences=fam_finder_prefs
+3 Displaying a FamilyFinder Report=display_ff_report
+2 How to: copy and print information
+3 Selecting and deselecting index entries=selecting_index_entries
+3 Printing selected entries=printing_selected_entries
+3 Copying selected entries=copying_selected_entries
+3 Copying individual records=copying_fa_records
+3 Copying images=copy_fa_images
+3 Printing images=print_fa_images
+1 How to: purchase Family Archives=purchase_facds
+1 World Family Tree:  what it is and how to join
+2 World Family Tree: what it is and how to join=world_family_tree
+2 Protecting your privacy=protect_privacy
+2 Information quality=information_quality
+2 Instructions for contributing your tree
+3 Contributing your tree on diskette=submit_wft_diskette
+3 Contributing your tree online=submit_wft_online
+1 Family Tree Maker Online:  what it is and how to use it
+2 All About Family Tree Maker Online=family_tree_online
+2 More about the Internet and the World Wide Web=more_about_internet
+2 How to:  start Family Tree Maker Online=starting_fto
+2 How Family Tree Maker Online and Your Family Tree Maker software interact=fto_interact
+2 Navigating between Web pages and using your browser=web_navigation
+2 How to:  create your own home page=fto_create_home_page
+2 How to:  publish a family tree on the Internet=fto_publish_tree
+2 How to:  publish a report on the Internet=fto_publish_report
+2 How to:  publish a family book on the Internet=fto_publish_book
+1 Other information
+2 Technical support=technical_support
+2 Family File Status=family_file_status
+2 System information=system_info
+2 The README file=readme_file
+2 The Data Exchange Utility (DEU)=deu_info
+2 Genealogy research sources=research_sources
+2 Preserving photos=preserving_photos
+2 Picture size and your computer=picture_size

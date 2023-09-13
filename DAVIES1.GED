@@ -1,0 +1,3692 @@
+0 HEAD
+1 SOUR FTW
+1 DEST FTM
+1 DATE 23 May 1998
+1 CHAR IBMPC
+1 FILE E:\FAMILY\DAVIES1.GED
+0 @I001@ INDI
+1 NAME Robert Llewellyn /Davies/
+1 SEX M
+1 BIRT
+2 DATE 20 Feb 1952
+2 PLAC Clarendon Hills, Illinois
+1 CHR
+2 PLAC Intel Software Engineer
+1 FAMS @F001@
+1 FAMC @F015@
+0 @I002@ INDI
+1 NAME Lynne Ann /Davies/
+1 SEX F
+1 BIRT
+2 DATE 25 Dec 1954
+2 PLAC Brockton, Massachusetts
+1 CHR
+2 PLAC Speech Pathologist
+1 FAMS @F001@
+1 FAMC @F026@
+0 @I003@ INDI
+1 NAME Diana Lorraine /Davies/
+1 SEX F
+1 BIRT
+2 DATE 20 Mar 1986
+2 PLAC Phoenix, AZ
+1 FAMC @F001@
+0 @I004@ INDI
+1 NAME Shannon Kathleen /Davies/
+1 SEX F
+1 BIRT
+2 DATE 2 Aug 1988
+2 PLAC Mountain View, CA
+1 FAMC @F001@
+0 @I005@ INDI
+1 NAME Andrea Lynne /Davies/
+1 SEX F
+1 BIRT
+2 DATE 30 May 1990
+2 PLAC Mountain View, CA
+1 FAMC @F001@
+0 @I006@ INDI
+1 NAME Trevor Edward /Davies/
+1 SEX M
+1 BIRT
+2 DATE 12 Jan 1992
+2 PLAC Mountain View, CA
+1 FAMC @F001@
+0 @I007@ INDI
+1 NAME Trevor Llewellyn /Davies/
+1 SEX M
+1 BIRT
+2 DATE 9 Jan 1913
+2 PLAC Chicago, Illinois
+1 CHR
+2 PLAC President Eureka X-ray Corp.
+1 FAMS @F015@
+1 FAMC @F022@
+0 @I008@ INDI
+1 NAME Winnetta Zalus /Davies/
+1 SEX F
+1 BIRT
+2 DATE 12 Feb 1914
+2 PLAC Chicago Illinois
+1 DEAT
+2 DATE 17 Dec 1995
+2 PLAC Phoenix, Arizona
+1 CONF
+2 PLAC Ashes scattered at Fitzgerald Marine Preserve
+1 FCOM
+2 PLAC north of Half Moon Bay, CA
+1 OCCU Winnetta Amelia Sophie Tillie Zalus (full name)
+1 FAMS @F015@
+1 FAMC @F018@
+0 @I009@ INDI
+1 NAME Trevor Caradoc /Davies/
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1950
+2 PLAC Hinsdale, Illinois
+1 CHR
+2 PLAC Trustee Coleman Foundation, accountant
+1 FAMS @F025@
+1 FAMC @F015@
+0 @I010@ INDI
+1 NAME Lynn Davies /Rice/
+1 SEX F
+1 BIRT
+2 DATE 17 Jun 1946
+2 PLAC Oak Park, Illinois
+1 CHR
+2 PLAC Owns quilt shop in Barrington, IL
+1 FAMS @F016@
+1 FAMC @F015@
+0 @I011@ INDI
+1 NAME Millicent Kathleen /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 3 Mar 1942
+2 PLAC Hinsdale, Illinois
+1 CHR
+2 PLAC Photographer/quilter/teacher
+1 FAMS @F024@
+1 FAMC @F015@
+0 @I012@ INDI
+1 NAME Andrew Joseph /Rice/
+1 SEX M
+1 BIRT
+2 DATE 10 Aug 1971
+2 PLAC Elgin, Illinois
+1 FAMC @F016@
+0 @I013@ INDI
+1 NAME Sarah Elizabeth /Rice/
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1974
+2 PLAC Elgin, Illinois
+1 FAMC @F016@
+0 @I014@ INDI
+1 NAME Daniel Llewellyn /Rice/
+1 SEX M
+1 BIRT
+2 DATE 10 Jul 1976
+2 PLAC Elgin, Illinois
+1 FAMC @F016@
+0 @I015@ INDI
+1 NAME Arthur Louis /Rice/ III
+1 SEX M
+1 BIRT
+2 DATE 8 Apr 1946
+2 PLAC Winnetka, Illinois
+1 CHR
+2 PLAC Dun & Bradstreet Sales manager
+1 FAMS @F016@
+1 FAMC @F017@
+0 @I016@ INDI
+1 NAME Arthur Louis /Rice/ II
+1 SEX M
+1 BIRT
+2 DATE 1 Feb 1915
+2 PLAC Evanston, Illinois
+1 CHR
+2 PLAC President Technical Publishing
+1 FAMS @F017@
+1 FAMC @F086@
+0 @I017@ INDI
+1 NAME Earl Fred /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1891
+2 PLAC Des Plaines, Illinois
+1 DEAT
+2 DATE 1963
+2 PLAC Elmhurst, Illinois
+1 CHR
+2 PLAC Original name was Von Zaluskowski
+1 FAMS @F018@
+1 FAMC @F004@
+0 @I018@ INDI
+1 NAME Gertrude Reichwald /Zalus/
+1 SEX F
+1 BIRT
+2 DATE 27 Apr 1892
+2 PLAC Posen, Germany
+1 DEAT
+2 DATE 2 Aug 1975
+2 PLAC Elmhurst, Illinois
+1 FAMS @F018@
+1 FAMC @F019@
+0 @I019@ INDI
+1 NAME Hazel Zalus /Ericksen/
+1 SEX F
+1 BIRT
+2 DATE 24 Aug 1920
+1 FAMS @F046@
+1 FAMC @F018@
+0 @I020@ INDI
+1 NAME Theodore /Reichwald/
+1 SEX M
+1 BIRT
+2 DATE 1860
+2 PLAC Germany
+1 DEAT
+2 DATE 1938
+2 PLAC Chicago, Illinois
+1 FAMS @F019@
+0 @I021@ INDI
+1 NAME Dorothea /Reichwald/
+1 SEX F
+1 BIRT
+2 DATE 1862
+1 DEAT
+2 DATE 1939
+2 PLAC Chicago, Illinois
+1 FAMS @F019@
+0 @I022@ INDI
+1 NAME Freida /Zalus/
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 DEAT
+2 DATE 1975
+2 PLAC Chicago, Illinois
+1 FAMC @F019@
+0 @I023@ INDI
+1 NAME Dorothy Zalus /Boscamp/
+1 SEX F
+1 BIRT
+2 DATE 30 Jul 1918
+1 DEAT
+2 DATE 8 May 1952
+2 PLAC Chicago, Illinois
+2 CAUS Aorta valve failure
+1 BURI
+2 PLAC aorta valve failure
+1 FAMS @F020@
+1 FAMC @F018@
+0 @I024@ INDI
+1 NAME William /Boscamp/
+1 SEX M
+1 BIRT
+2 DATE 8 Aug 1947
+1 FAMC @F020@
+0 @I025@ INDI
+1 NAME Don /Boscamp/
+1 SEX M
+1 BIRT
+2 DATE 28 Sep 1949
+1 FAMC @F020@
+0 @I026@ INDI
+1 NAME Diane Boscamp /Dougherty/
+1 SEX F
+1 BIRT
+2 DATE 28 Sep 1949
+2 PLAC Chicago, Illinois
+1 FAMS @F133@
+1 FAMC @F020@
+0 @I027@ INDI
+1 NAME Bill /Boscamp/
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 CHR
+2 PLAC Ran cottage resort in Northern Wisconsin
+1 FAMS @F020@
+1 FAMS @F021@
+0 @I028@ INDI
+1 NAME Shirley /Boscamp/
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 FAMS @F021@
+0 @I029@ INDI
+1 NAME Lewis Marshall /Churbuck/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 21 Aug 1940
+2 PLAC Chicago, Illinois
+1 CHR
+2 PLAC Biology Professor Upper Iowa University
+1 FAMS @F024@
+1 FAMC @F059@
+0 @I030@ INDI
+1 NAME Kimberly Michelle /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1968
+2 PLAC Oelwein, Iowa
+1 CHR
+2 PLAC Artist/dog groomer
+1 FAMC @F024@
+0 @I031@ INDI
+1 NAME Lewis Marshall /Churbuck/ III
+1 SEX M
+1 BIRT
+2 DATE 27 Jun 1972
+2 PLAC West Union, Iowa
+1 FAMC @F024@
+0 @I032@ INDI
+1 NAME Nanci Pirages /Davies/
+1 SEX F
+1 BIRT
+2 DATE 9 Jan 1953
+2 PLAC Rockford, Illinois
+1 DEAT
+2 DATE 12 Nov 1995
+2 PLAC Downers Grove, Illinois
+1 CHR
+2 PLAC Died of breast cancer
+1 FAMS @F025@
+1 FAMC @F050@
+0 @I033@ INDI
+1 NAME Emily Poppy /Davies/
+1 SEX F
+1 BIRT
+2 DATE 2 May 1984
+2 PLAC Hinsdale, Illinois
+1 FAMC @F025@
+0 @I034@ INDI
+1 NAME Hannah Caradoc /Davies/
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1990
+2 PLAC Downers Grove, Illinois
+1 FAMC @F025@
+0 @I035@ INDI
+1 NAME Trevor Joseph /Davies/
+1 SEX M
+1 BIRT
+2 DATE 8 Feb 1993
+2 PLAC Downers Grove, Illinois
+1 FAMC @F025@
+0 @I036@ INDI
+1 NAME Walter Caradoc /Davies/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1881
+2 PLAC Rhyl, Wales
+1 DEAT
+2 DATE 10 Jan 1977
+2 PLAC Schaumberg, Illinois
+1 CHR
+2 PLAC Fought in the Boer War
+1 BURI
+2 PLAC Fell in bathroom.  Never recovered.
+1 BAPM
+2 PLAC Cataracts, deafness
+1 OCCU Fought in the Boer War
+1 INFO Traveled around the world 3 times by ship.
+1 FAMS @F022@
+1 FAMC @F048@
+0 @I037@ INDI
+1 NAME Edward Francis /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 17 May 1918
+2 PLAC Brockton, Mass.
+1 CHR
+2 PLAC Columbia Meats
+1 FAMS @F026@
+1 FAMC @F029@
+0 @I038@ INDI
+1 NAME Lorraine Louise /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 3 Dec 1923
+2 PLAC Brockton, Mass
+1 FAMS @F026@
+1 FAMC @F031@
+0 @I039@ INDI
+1 NAME Steve Edward /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 10 Jun 1952
+2 PLAC Brockton Mass.
+1 CHR
+2 PLAC Continental Airlines (20 yrs)
+1 FAMS @F027@
+1 FAMC @F026@
+0 @I040@ INDI
+1 NAME James Robert /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 2 May 1959
+2 PLAC Brockton, Mass
+1 DEAT
+2 DATE 5 Sep 1992
+2 PLAC Boston, Mass
+1 CHR
+2 PLAC Shaw's market warehouse
+1 BURI
+2 PLAC Suicide - jumped from Mystic river bridge.
+1 BAPM
+2 PLAC gambling
+1 FAMC @F026@
+0 @I041@ INDI
+1 NAME Cindy Marie /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1956
+2 PLAC San Mateo, CA
+1 CHR
+2 PLAC Delta Airlines
+1 FAMS @F027@
+1 FAMC @F028@
+0 @I042@ INDI
+1 NAME Kristin Kelly /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 13 Jul 1987
+1 FAMC @F027@
+0 @I043@ INDI
+1 NAME Daniel James /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 14 Nov 1990
+1 FAMC @F027@
+0 @I044@ INDI
+1 NAME Bert /Cameratto/
+1 SEX M
+1 BIRT
+2 DATE 31 Dec 1924
+2 PLAC San Mateo, CA
+1 CHR
+2 PLAC Owned Cement Business
+1 BAPM
+2 PLAC Both hips replaced
+1 CONF
+2 PLAC Italian
+1 FAMS @F028@
+1 FAMC @F051@
+0 @I045@ INDI
+1 NAME Geraldine Ann /Cameratto/
+1 SEX F
+1 BIRT
+2 DATE 25 May 1927
+2 PLAC Palo Alto, Ca
+1 FAMS @F028@
+1 FAMC @F034@
+0 @I046@ INDI
+1 NAME Vicki Ann /Sweeney/
+1 SEX F
+1 BIRT
+2 DATE 25 Jan 1955
+1 FAMS @F052@
+1 FAMC @F028@
+0 @I047@ INDI
+1 NAME Mario /Cameratto/
+1 SEX M
+1 BIRT
+2 DATE 12 Jul 1959
+1 FAMC @F028@
+0 @I048@ INDI
+1 NAME Carla /Cameratto/
+1 SEX F
+1 BIRT
+2 DATE 25 Jun 1960
+1 FAMC @F028@
+0 @I049@ INDI
+1 NAME Myra Freeman /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1889
+2 PLAC Natick, Mass
+1 DEAT
+2 DATE 28 Oct 1953
+2 PLAC Brockton, Mass
+1 FAMS @F029@
+1 FAMC @F030@
+0 @I050@ INDI
+1 NAME /McDonald/
+1 SEX M
+1 BIRT
+2 DATE 1865
+1 FAMS @F030@
+0 @I051@ INDI
+1 NAME Robert Francis /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 7 Jan 1914
+1 DEAT
+2 DATE 6 May 1991
+2 PLAC Carver, Mass
+1 FAMS @F033@
+1 FAMC @F029@
+0 @I052@ INDI
+1 NAME Gerrard Francis /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 29 Mar 1912
+1 DEAT
+2 DATE 1990
+2 PLAC Brockton, Mass
+1 FAMC @F029@
+0 @I053@ INDI
+1 NAME Alice Josephine /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 9 Feb 1900
+2 PLAC Brockton, Mass
+1 DEAT
+2 DATE 13 Dec 1988
+2 PLAC Brockton, Mass
+1 FAMS @F031@
+1 FAMC @F032@
+0 @I054@ INDI
+1 NAME Edward /Roberts/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1896
+2 PLAC North Brookfield, Mass
+1 DEAT
+2 DATE 22 Feb 1955
+2 PLAC Brockton, Mass
+1 CHR
+2 PLAC Shoe cutter
+1 FAMS @F031@
+1 FAMC @F070@
+0 @I055@ INDI
+1 NAME Edward /Roberts/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 12 Sep 1920
+2 PLAC Brockton, Mass
+1 DEAT
+2 DATE 17 Jan 1993
+2 PLAC Providence, Rhode Island
+1 FAMS @F130@
+1 FAMC @F031@
+0 @I056@ INDI
+1 NAME Florence /Crowell/
+1 SEX F
+1 BIRT
+2 DATE 17 Jul 1912
+1 BAPM
+2 PLAC Hips replaced
+1 FAMC @F032@
+0 @I057@ INDI
+1 NAME John Louis /Jackson/
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1900
+2 PLAC Louisville, Kentucky
+1 CHR
+2 PLAC Ran away to the navy when he was 12
+1 FAMS @F034@
+0 @I058@ INDI
+1 NAME Harold (Lefty) /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 22 Dec 1907
+1 CHR
+2 PLAC Shoe cutter
+1 FAMS @F131@
+1 FAMC @F032@
+0 @I059@ INDI
+1 NAME Ann /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1921
+2 PLAC Whitman, Mass
+1 FAMS @F033@
+0 @I060@ INDI
+1 NAME Kathy /Mack/
+1 SEX F
+1 BIRT
+2 DATE 25 May 1959
+2 PLAC Whitman, Mass
+1 FAMC @F033@
+0 @I061@ INDI
+1 NAME John /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 FAMC @F033@
+0 @I062@ INDI
+1 NAME Robert /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1950
+2 PLAC Brockton, Mass
+1 DEAT
+2 DATE 1968
+2 PLAC Brockton, Mass
+2 CAUS car accident
+1 FAMC @F033@
+0 @I063@ INDI
+1 NAME Sheila /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMC @F033@
+0 @I064@ INDI
+1 NAME Mildred /Cook/
+1 SEX F
+1 BIRT
+2 DATE 28 Jun 1911
+2 PLAC Chicago, Illinois
+1 DEAT
+2 DATE 30 Mar 1996
+2 PLAC Chicago, Illinois
+1 CHR
+2 PLAC Hatmaker
+1 FAMS @F035@
+1 FAMC @F022@
+0 @I065@ INDI
+1 NAME Dorothy May /LaFebve/
+1 SEX F
+1 BIRT
+2 DATE 26 May 1916
+1 FAMS @F065@
+1 FAMC @F022@
+0 @I066@ INDI
+1 NAME Ted /Cook/
+1 SEX M
+1 BIRT
+2 DATE 2 Oct 1909
+1 CHR
+2 PLAC Steelworker
+1 FAMS @F035@
+0 @I067@ INDI
+1 NAME Cheryl Cook /Brokaw/
+1 SEX F
+1 BIRT
+2 DATE 25 Aug 1943
+1 FAMS @F023@
+1 FAMC @F035@
+0 @I068@ INDI
+1 NAME Curtis Lyle /Brokaw/
+1 SEX M
+1 BIRT
+2 DATE 15 May 1938
+1 CHR
+2 PLAC MIS manager
+1 FAMS @F023@
+0 @I069@ INDI
+1 NAME Millicent Kathleen /Davies/
+1 SEX F
+1 BIRT
+2 DATE 1890
+2 PLAC Eton Wick (near Windsor) England
+1 DEAT
+2 DATE 1970
+2 PLAC Chicago, Illinois
+1 FAMS @F022@
+1 FAMC @F036@
+0 @I070@ INDI
+1 NAME George Benjamin /Long/
+1 SEX M
+1 BIRT
+2 DATE 1863
+2 PLAC England
+1 DEAT
+2 DATE 1934
+2 PLAC Chicago, Illinois
+1 CHR
+2 PLAC Bookbinder at Eton College.
+1 OCCU Left for the US before WW I
+1 FAMS @F036@
+1 FAMC @F038@
+0 @I071@ INDI
+1 NAME Annie Agnes /Long/
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 DEAT
+2 DATE 18 Nov 1906
+2 PLAC Eton Wick (near Windsor), England
+1 FAMS @F036@
+1 FAMC @F037@
+0 @I072@ INDI
+1 NAME George /Long/
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 FAMS @F039@
+1 FAMC @F036@
+0 @I073@ INDI
+1 NAME Great-great grandfather /Conner/
+1 SEX M
+1 BIRT
+2 DATE 1840
+1 CONF
+2 PLAC Irish
+1 FAMS @F037@
+0 @I074@ INDI
+1 NAME Violet Long /Lee/
+1 SEX F
+1 BIRT
+2 DATE 1887
+1 FAMS @F040@
+1 FAMC @F036@
+0 @I075@ INDI
+1 NAME May /Long/
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 FAMS @F045@
+1 FAMC @F036@
+0 @I076@ INDI
+1 NAME Agnes /Long/
+1 SEX F
+1 BIRT
+2 DATE 1884
+2 PLAC Etonwick, Near Windsor, UK
+1 DEAT
+2 DATE 1967
+1 FAMS @F041@
+1 FAMC @F036@
+0 @I077@ INDI
+1 NAME George /Long/
+1 SEX M
+1 BIRT
+2 DATE 1840
+1 CHR
+2 PLAC Foreman Eyne & Spottiswood (publisher)
+1 BURI
+2 PLAC Shacklewell Lane, London UK
+1 FAMS @F038@
+0 @I078@ INDI
+1 NAME Jack /Long/
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 FAMC @F038@
+0 @I079@ INDI
+1 NAME Jack Benjamin /Long/
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 DEAT
+2 DATE 1980
+2 PLAC Long Beach, California
+1 FAMS @F069@
+1 FAMC @F039@
+0 @I080@ INDI
+1 NAME Henry John /Michel/
+1 SEX M
+1 BIRT
+2 DATE 17 Dec 1920
+1 FAMS @F056@
+0 @I081@ INDI
+1 NAME Arthur John /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1881
+1 DEAT
+2 DATE 1963
+1 CHR
+2 PLAC Signwriter - Lived near Windsor Castle in UK
+1 FAMS @F041@
+1 FAMC @F076@
+0 @I082@ INDI
+1 NAME Jack /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1 Feb 1916
+2 PLAC England
+1 CHR
+2 PLAC Chief Administrator Chelmsford Schools
+1 FAMS @F044@
+1 FAMC @F041@
+0 @I083@ INDI
+1 NAME Marie /Blow/
+1 SEX F
+1 BIRT
+2 DATE 11 Oct 1914
+2 PLAC B
+1 FAMS @F042@
+1 FAMC @F041@
+0 @I084@ INDI
+1 NAME Wilfred /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1940
+2 PLAC in Cairo, Egypt after the Africa campaign
+1 CHR
+2 PLAC Killed by a street car in Cairo, Egypt after the
+1 BURI
+2 PLAC Africa campaign in 1940
+1 FAMC @F041@
+0 @I085@ INDI
+1 NAME Cecil /Blow/
+1 SEX M
+1 BIRT
+2 DATE 1912
+1 CHR
+2 PLAC Lived in Eton in a 400 year old house
+1 FAMS @F042@
+0 @I086@ INDI
+1 NAME Andrew /Blow/
+1 SEX M
+1 BIRT
+2 DATE 1943
+1 CHR
+2 PLAC First married Anne, divorced.
+1 OCCU Married Patricia (deceased).  Married Sylvia
+1 FAMS @F043@
+1 FAMS @F073@
+1 FAMS @F074@
+1 FAMC @F042@
+0 @I087@ INDI
+1 NAME Anne /Blow/
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMS @F043@
+0 @I088@ INDI
+1 NAME Karen /Blow/
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F075@
+1 FAMC @F043@
+0 @I089@ INDI
+1 NAME Patricia /Springett/
+1 SEX F
+1 BIRT
+2 DATE 28 Jun 1928
+1 FAMS @F044@
+0 @I090@ INDI
+1 NAME Kathleen /Brokaw/
+1 SEX F
+1 BIRT
+2 DATE 30 Jan 1970
+1 FAMS @F129@
+1 FAMC @F023@
+0 @I091@ INDI
+1 NAME Jennifer /Brokaw/
+1 SEX F
+1 BIRT
+2 DATE 3 May 1974
+1 FAMC @F023@
+0 @I092@ INDI
+1 NAME Frank /Retzel/
+1 SEX M
+1 BIRT
+2 DATE 1890
+1 DEAT
+2 CAUS Died of cancer
+1 CHR
+2 PLAC Lived in Chicago - Parkside and North Avenue
+1 FAMS @F045@
+0 @I093@ INDI
+1 NAME Herman (Eric) A. /Ericksen/
+1 SEX M
+1 BIRT
+2 DATE 17 May 1917
+1 DEAT
+2 DATE 28 Aug 1990
+2 PLAC Chicago, Illinois
+1 BURI
+2 PLAC Accident with commuter train
+1 BAPM
+2 PLAC alcoholic
+1 FAMS @F046@
+0 @I094@ INDI
+1 NAME Jean Ericksen /Buick/
+1 SEX F
+1 BIRT
+2 DATE 8 Feb 1946
+1 FAMS @F047@
+1 FAMC @F046@
+0 @I095@ INDI
+1 NAME Janet /Moore/
+1 SEX F
+1 BIRT
+2 DATE 28 Feb 1948
+1 FAMS @F002@
+1 FAMS @F049@
+1 FAMC @F046@
+0 @I096@ INDI
+1 NAME Jensine Ericksen /Moxley/
+1 SEX F
+1 BIRT
+2 DATE 18 Aug 1954
+1 CHR
+2 PLAC Living in Tuscon, AZ
+1 FAMC @F046@
+0 @I097@ INDI
+1 NAME Scott /Ericksen/
+1 SEX M
+1 BIRT
+2 DATE 13 Oct 1957
+1 FAMC @F046@
+0 @I098@ INDI
+1 NAME George /Buick/
+1 SEX M
+1 BIRT
+2 DATE 11 Mar 1946
+1 CHR
+2 PLAC Live in Long Island
+1 FAMS @F047@
+0 @I099@ INDI
+1 NAME Lynnette /Buick/
+1 SEX F
+1 BIRT
+2 DATE 23 Sep 1970
+1 FAMC @F047@
+0 @I100@ INDI
+1 NAME Ward /Buick/
+1 SEX M
+1 BIRT
+2 DATE 8 May 1972
+1 FAMC @F047@
+0 @I101@ INDI
+1 NAME Walter /Caradoc-Davies/
+1 SEX M
+1 BIRT
+2 DATE 1855
+1 DEAT
+2 DATE 1925
+2 PLAC Rhyl, Wales
+1 CHR
+2 PLAC Mayor of Rhyl Wales
+1 BURI
+2 DATE 1900
+2 PLAC Moved to Montreal, Canada
+1 BAPM
+2 DATE 1903
+2 PLAC returned to Rhyl
+1 CONF
+2 PLAC head of the fire department
+1 FCOM
+2 PLAC head of the Lodge
+1 OCCU "May the wind at your tail always be your own."
+1 FAMS @F048@
+0 @I102@ INDI
+1 NAME Sarah Elizabeth /Davies/
+1 SEX F
+1 BIRT
+2 DATE 1858
+1 DEAT
+2 DATE 1915
+2 PLAC Rhyl, Wales
+1 FAMS @F048@
+0 @I103@ INDI
+1 NAME (Rhyl-carpenter) /Davies/
+1 SEX M
+1 BIRT
+2 DATE 1884
+1 DEAT
+2 DATE 1948
+2 PLAC Rhyl, Wales, England
+1 CHR
+2 PLAC Died the day before Walter C. Davies arrived
+1 BURI
+2 PLAC in 1948 for a visit.
+1 FAMC @F048@
+0 @I104@ INDI
+1 NAME (Vancouver step-sister) /Davies/
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 FAMC @F048@
+0 @I105@ INDI
+1 NAME (Rhyl step-sister) /Davies/
+1 SEX F
+1 BIRT
+2 DATE 1886
+1 FAMC @F048@
+0 @I106@ INDI
+1 NAME Richard /Moore/
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F049@
+0 @I107@ INDI
+1 NAME Erika /Moore/
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1987
+1 FAMC @F049@
+0 @I108@ INDI
+1 NAME Ricky /Moore/
+1 SEX M
+1 BIRT
+2 DATE 5 Jun 1989
+1 FAMC @F049@
+0 @I109@ INDI
+1 NAME Muriel Lee /Michel/
+1 SEX F
+1 BIRT
+2 DATE 12 Sep 1920
+1 FAMS @F056@
+1 FAMC @F040@
+0 @I110@ INDI
+1 NAME Great-great grandmother /Conner/
+1 SEX F
+1 BIRT
+2 DATE 1840
+2 PLAC County Cork, Ireland
+1 DEAT
+2 DATE 1890
+2 PLAC Central London, UK
+1 CONF
+2 PLAC Irish
+1 OCCU Probably left Ireland in 1840 Potato famines
+1 FAMS @F037@
+0 @I111@ INDI
+1 NAME Joseph /Pirages/
+1 SEX M
+1 BIRT
+2 DATE 25 Apr 1917
+2 PLAC Rockford, Illinois
+1 FAMS @F050@
+1 FAMC @F013@
+0 @I112@ INDI
+1 NAME Viola Clark /Pirages/
+1 SEX F
+1 BIRT
+2 DATE 28 Jul 1922
+2 PLAC Davenport, Iowa
+1 FAMS @F050@
+1 FAMC @F012@
+0 @I113@ INDI
+1 NAME Mario /Cameratto/
+1 SEX M
+1 BIRT
+2 DATE 25 Mar 1893
+1 FAMS @F051@
+0 @I114@ INDI
+1 NAME Angelina (Noni) Mazzo /Cameratto/
+1 SEX F
+1 BIRT
+2 DATE 3 May 1897
+1 DEAT
+2 DATE 23 Jun 1992
+2 PLAC San Mateo, CA
+1 FAMS @F051@
+0 @I115@ INDI
+1 NAME Ann /Cameratto/
+1 SEX F
+1 BIRT
+2 DATE 25 Sep 1923
+1 DEAT
+2 DATE 1 Jan 1948
+2 PLAC San Mateo, CA
+1 CHR
+2 PLAC Died after stay in TB Sanitarium (complications)
+1 FAMC @F051@
+0 @I116@ INDI
+1 NAME Otto Gino /Cameratto/
+1 SEX M
+1 BIRT
+2 DATE 26 Nov 1927
+1 DEAT
+2 DATE 28 Oct 1991
+2 PLAC San Mateo, CA
+1 FAMC @F051@
+0 @I117@ INDI
+1 NAME Edward /Sweeney/
+1 SEX M
+1 BIRT
+2 DATE 1955
+2 PLAC Libertyville, Illinois
+1 FAMS @F052@
+0 @I118@ INDI
+1 NAME Ann Marie /Sweeney/
+1 SEX F
+1 BIRT
+2 DATE 5 Oct 1992
+1 FAMC @F052@
+0 @I119@ INDI
+1 NAME Josephine Raymond /Crowell/
+1 SEX F
+1 BIRT
+2 DATE 9 Oct 1882
+2 PLAC Plymouth, Mass
+1 DEAT
+2 DATE 16 Oct 1940
+2 PLAC Brockton, Mass
+1 FAMS @F032@
+1 FAMC @F053@
+0 @I120@ INDI
+1 NAME Almond /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 6 Dec 1884
+2 PLAC Boston, Mass
+1 DEAT
+2 DATE 1936
+2 PLAC Brockton, Mass
+1 CHR
+2 PLAC shoe-cutter
+1 FAMS @F032@
+0 @I121@ INDI
+1 NAME Elvira /Raymond/
+1 SEX F
+1 BIRT
+2 DATE 1860
+2 PLAC Plymouth, Mass
+1 DEAT
+2 DATE 1939
+2 PLAC Whitehorse Beach, Mass
+1 FAMS @F053@
+0 @I122@ INDI
+1 NAME Edward Francis /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1885
+2 PLAC Brockton, Mass
+1 DEAT
+2 DATE 28 Oct 1952
+2 PLAC Brockton, Mass
+1 CHR
+2 PLAC Shoe Welter
+1 FAMS @F029@
+1 FAMC @F054@
+0 @I123@ INDI
+1 NAME Billie /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1855
+2 PLAC East Stoughton (now Avon), Mass.
+1 DEAT
+2 DATE 9 Mar 1899
+2 CAUS Killed by the Brockton Street Railway
+1 CHR
+2 PLAC Manager of the 1890 Brooklyn Dodgers
+1 BURI
+2 PLAC Accident with Street car in Brockton
+1 FCOM
+2 PLAC Brockton's Saint Patrick Church
+1 FAMS @F054@
+1 FAMC @F063@
+0 @I124@ INDI
+1 NAME Annie Rogers /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1857
+1 FAMS @F054@
+0 @I125@ INDI
+1 NAME Fred /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 FAMC @F054@
+0 @I126@ INDI
+1 NAME Joe /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1887
+1 FAMC @F054@
+0 @I127@ INDI
+1 NAME Nellie /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1886
+1 FAMC @F054@
+0 @I128@ INDI
+1 NAME Margaret /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1890
+1 FAMC @F054@
+0 @I129@ INDI
+1 NAME Billie /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 FAMC @F054@
+0 @I130@ INDI
+1 NAME Roy /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 13 Sep 1909
+2 PLAC Brockton, Mass
+1 CHR
+2 PLAC Had 5 wives.  Not heard from since end of WW2
+1 FAMC @F032@
+0 @I131@ INDI
+1 NAME Warren /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1914
+1 CHR
+2 PLAC Proctor & Gambel
+1 FAMS @F014@
+1 FAMC @F032@
+0 @I132@ INDI
+1 NAME Josephine Marie /Jackson/
+1 SEX F
+1 BIRT
+2 DATE 17 Jan 1905
+2 PLAC Palo Alto, CA
+1 FAMS @F034@
+1 FAMC @F055@
+0 @I133@ INDI
+1 NAME Tom /Cardoza/
+1 SEX M
+1 BIRT
+2 DATE 23 Dec 1863
+2 PLAC Pico Island, Azores
+1 FAMS @F055@
+0 @I134@ INDI
+1 NAME Ann Anndraid /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1865
+1 FAMS @F055@
+0 @I135@ INDI
+1 NAME Alfred /Cardoza/
+1 SEX M
+1 BIRT
+2 DATE 1901
+1 CHR
+2 PLAC Still alive - is this Albert or Alfred
+1 FAMC @F055@
+0 @I136@ INDI
+1 NAME Harry /Cardoza/
+1 SEX M
+1 BIRT
+2 DATE 1899
+1 FAMC @F055@
+0 @I137@ INDI
+1 NAME Louisa /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 FAMC @F055@
+0 @I138@ INDI
+1 NAME Annie /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1896
+1 FAMC @F055@
+0 @I139@ INDI
+1 NAME Laura /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1897
+1 FAMC @F055@
+0 @I140@ INDI
+1 NAME Eva /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1894
+1 FAMC @F055@
+0 @I141@ INDI
+1 NAME Effie /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 CHR
+2 PLAC Twin of Elsie - still alive
+1 FAMC @F055@
+0 @I142@ INDI
+1 NAME Elsie /Cardoza/
+1 SEX F
+1 BIRT
+2 DATE 1891
+1 FAMC @F055@
+0 @I143@ INDI
+1 NAME (?) /Klauber/
+1 SEX M
+1 BIRT
+2 DATE 1946
+1 FAMS @F002@
+0 @I144@ INDI
+1 NAME Gus /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 DEAT
+2 DATE 1920
+2 PLAC Des Plaines, Illinois
+1 CHR
+2 PLAC Fought in Spanish-American War - bricklayer
+1 FAMS @F006@
+1 FAMS @F004@
+1 FAMC @F003@
+0 @I145@ INDI
+1 NAME Amelia /Kirchoff/
+1 SEX F
+1 BIRT
+2 DATE 17 Aug 1890
+1 FAMS @F005@
+1 FAMS @F004@
+1 FAMC @F007@
+0 @I146@ INDI
+1 NAME Paul /Kirchoff/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 FAMS @F005@
+0 @I147@ INDI
+1 NAME Irene /Zalus/
+1 SEX F
+1 BIRT
+2 DATE 1864
+1 DEAT
+2 DATE 1930
+2 PLAC Chicago, Illinois
+1 FAMS @F006@
+0 @I148@ INDI
+1 NAME Kenneth /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 CHR
+2 PLAC Lives in Washington State
+1 FAMC @F006@
+0 @I149@ INDI
+1 NAME Harold /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 1896
+1 FAMC @F006@
+0 @I150@ INDI
+1 NAME Hugo /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 1862
+1 FAMC @F003@
+0 @I151@ INDI
+1 NAME ? /Zalus/
+1 SEX M
+1 BIRT
+2 DATE 1840
+2 PLAC Des Plaines, Illinois
+1 DEAT
+2 DATE 1905
+2 PLAC Des Plaines, Illinois
+1 FAMS @F003@
+0 @I152@ INDI
+1 NAME ? /Fischer/
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 FAMS @F007@
+0 @I153@ INDI
+1 NAME Sophie (Zalus) /Fischer/
+1 SEX F
+1 BIRT
+2 DATE 7 Jan 1864
+1 CHR
+2 PLAC Sophie's first husband was Amelia's father
+1 FAMS @F007@
+0 @I154@ INDI
+1 NAME Harold J. /LeFebve/
+1 SEX M
+1 BIRT
+2 DATE 24 Aug 1914
+1 DEAT
+2 DATE 1993
+2 PLAC Illinois
+1 FAMS @F065@
+0 @I155@ INDI
+1 NAME William Harold /LeFebve/
+1 SEX M
+1 BIRT
+2 DATE 9 Nov 1947
+1 FAMC @F065@
+0 @I156@ INDI
+1 NAME Mary /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 FAMC @F054@
+0 @I157@ INDI
+1 NAME Abbie /McCullough/
+1 SEX F
+1 BIRT
+2 DATE 1838
+1 FAMC @F067@
+0 @I158@ INDI
+1 NAME Patrick /McCullough/
+1 SEX M
+1 BIRT
+2 DATE 1829
+2 PLAC Cork, Ireland
+1 DEAT
+2 DATE 1875
+2 PLAC North Bridgewater, Mass
+1 FAMS @F067@
+0 @I159@ INDI
+1 NAME James F. /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1834
+2 PLAC Cork, Ireland
+1 DEAT
+2 DATE 1897
+2 PLAC Dorchester, Mass
+2 CAUS lead poisoning from bullet taken during the Civil War
+1 BURI
+2 PLAC Lead poisoning from bullet taken in Civil War
+1 FAMS @F063@
+1 FAMC @F066@
+0 @I160@ INDI
+1 NAME ? (McCullogh) /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1836
+1 FAMS @F063@
+1 FAMC @F067@
+0 @I161@ INDI
+1 NAME James F. /McGunnigle/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 1810
+1 FAMS @F066@
+0 @I162@ INDI
+1 NAME Hugh /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1838
+1 FAMC @F066@
+0 @I163@ INDI
+1 NAME William /McGunnigle/
+1 SEX M
+1 BIRT
+2 DATE 1845
+1 FAMC @F066@
+0 @I164@ INDI
+1 NAME Edith /McGunnigle/
+1 SEX F
+1 BIRT
+2 DATE 1840
+1 FAMC @F067@
+0 @I165@ INDI
+1 NAME Lewis Marshall /Churbuck/, Sr.
+1 SEX M
+1 BIRT
+2 DATE 12 Feb 1897
+1 DEAT
+2 DATE Jul 1963
+2 PLAC Hinsdale, Illinois
+1 FAMS @F059@
+1 FAMC @F060@
+0 @I166@ INDI
+1 NAME Mary Louise /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 22 May 1913
+1 DEAT
+2 DATE Jul 1972
+2 PLAC Madison, Wisconsin
+1 FAMS @F059@
+1 FAMC @F068@
+0 @I167@ INDI
+1 NAME Fred /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 11 May 1945
+2 PLAC Hinsdale, Illinois
+1 FAMS @F010@
+1 FAMC @F059@
+0 @I168@ INDI
+1 NAME Betty /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 1980
+2 PLAC Madison, Wisconsin
+1 CHR
+2 PLAC Died of severe asthma attack
+1 FAMC @F059@
+0 @I169@ INDI
+1 NAME Forest /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 CHR
+2 PLAC 2 other children died of scarlet fever.
+1 BURI
+2 PLAC Was not a whaling captain but father and
+1 BAPM
+2 PLAC grandfather were.
+1 CONF
+2 PLAC At one point owned the whole of Cape Cod.
+1 FAMS @F060@
+0 @I170@ INDI
+1 NAME Annie /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT
+2 DATE 1961
+1 FAMS @F060@
+1 FAMC @F061@
+0 @I171@ INDI
+1 NAME Isaiah Ponsombi /Marshal/
+1 SEX M
+1 BIRT
+2 DATE 1854
+1 FAMS @F061@
+0 @I172@ INDI
+1 NAME David /Stock/
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 DEAT
+2 DATE 1974
+2 PLAC Florida
+1 FAMS @F068@
+0 @I173@ INDI
+1 NAME Annie /Stock/
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 DEAT
+2 DATE 1978
+1 FAMS @F068@
+0 @I174@ INDI
+1 NAME Percy /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 1899
+1 FAMC @F060@
+0 @I175@ INDI
+1 NAME Ernst /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 1900
+1 FAMC @F060@
+0 @I176@ INDI
+1 NAME Clarence /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 1902
+1 FAMC @F060@
+0 @I177@ INDI
+1 NAME Brigitte White /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 1858
+2 PLAC Ireland
+1 DEAT
+2 DATE 1898
+2 PLAC Brockton, Mass
+1 FAMS @F070@
+0 @I178@ INDI
+1 NAME Daughter (Long) /Jameson/
+1 SEX F
+1 BIRT
+2 DATE 1869
+1 CHR
+2 PLAC Last name may have been Jamieson
+1 FAMS @F008@
+1 FAMC @F038@
+0 @I179@ INDI
+1 NAME Will /Jameson/
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 FAMC @F008@
+0 @I180@ INDI
+1 NAME Maud Long /Tripp/
+1 SEX F
+1 BIRT
+2 DATE 1891
+1 CHR
+2 PLAC Lived in South London
+1 FAMC @F008@
+0 @I181@ INDI
+1 NAME Jack /Lee/
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 FAMS @F040@
+0 @I182@ INDI
+1 NAME Phyllis Ann /Michel/
+1 SEX F
+1 BIRT
+2 DATE 5 Nov 1948
+2 PLAC Arleta, CA
+1 FAMS @F137@
+1 FAMC @F056@
+0 @I183@ INDI
+1 NAME Allen Lee /Michel/
+1 SEX M
+1 BIRT
+2 DATE 26 May 1950
+2 PLAC Arleta, CA
+1 FAMS @F138@
+1 FAMC @F056@
+0 @I184@ INDI
+1 NAME Marilyn Jean LeFebve /Paladino/
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1945
+1 FAMS @F011@
+1 FAMC @F065@
+0 @I185@ INDI
+1 NAME Frances /Blow/
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 FAMC @F042@
+0 @I186@ INDI
+1 NAME Catherine Blow /Evans/
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 FAMC @F042@
+0 @I187@ INDI
+1 NAME Elizabeth Blow /Akehurst/
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 FAMS @F009@
+1 FAMC @F042@
+0 @I188@ INDI
+1 NAME Jennifer Blow /Humphris/
+1 SEX F
+1 BIRT
+2 DATE 1941
+1 FAMS @F071@
+1 FAMC @F042@
+0 @I189@ INDI
+1 NAME ? /Akehurst/
+1 SEX M
+1 BIRT
+2 DATE 1951
+1 FAMS @F009@
+0 @I190@ INDI
+1 NAME Thomas /Akehurst/
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMC @F009@
+0 @I191@ INDI
+1 NAME Rachel /Akehurst/
+1 SEX F
+1 BIRT
+2 DATE 1952
+1 CHR
+2 PLAC Was adopted by Elizabeth
+1 FAMC @F009@
+0 @I192@ INDI
+1 NAME ? /Humphris/
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 FAMS @F071@
+0 @I193@ INDI
+1 NAME Roderick /Humphris/
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMC @F071@
+0 @I194@ INDI
+1 NAME Emma Humphris /White/
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 FAMS @F072@
+1 FAMC @F071@
+0 @I195@ INDI
+1 NAME Gordon /White/
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMS @F072@
+0 @I196@ INDI
+1 NAME Katie /White/
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMC @F072@
+0 @I197@ INDI
+1 NAME Beri /White/
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F072@
+0 @I198@ INDI
+1 NAME Patricia /Blow/
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMS @F073@
+0 @I199@ INDI
+1 NAME Sylvia /Blow/
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMS @F074@
+0 @I200@ INDI
+1 NAME ? /Gunn/
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMS @F075@
+0 @I201@ INDI
+1 NAME Edwin /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1890
+1 CHR
+2 PLAC Postillion later publican at the Swan Inn by
+1 BURI
+2 PLAC Windsor Bridge, Windsor, UK.  (Twelvth Night).
+1 FAMS @F076@
+0 @I202@ INDI
+1 NAME Anne /Pardoe/
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 FAMS @F076@
+1 FAMS @F077@
+1 FAMC @F078@
+0 @I203@ INDI
+1 NAME Giles /Kent/
+1 SEX M
+1 BIRT
+2 DATE 1865
+1 FAMS @F077@
+0 @I204@ INDI
+1 NAME Edward /Pardoe/
+1 SEX M
+1 BIRT
+2 DATE 1842
+1 CHR
+2 PLAC China Dealer in UK
+1 FAMS @F078@
+0 @I205@ INDI
+1 NAME Rea /Pardoe/
+1 SEX F
+1 BIRT
+2 DATE 1845
+1 FAMS @F078@
+0 @I206@ INDI
+1 NAME Edwin /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1885
+1 CHR
+2 PLAC Chauffer
+1 FAMS @F079@
+1 FAMC @F076@
+0 @I207@ INDI
+1 NAME Edwin (Ted) /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 FAMC @F079@
+0 @I208@ INDI
+1 NAME Evelyn /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1912
+1 FAMC @F079@
+0 @I209@ INDI
+1 NAME Clara Springett /Weaver/
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 FAMS @F080@
+1 FAMC @F076@
+0 @I210@ INDI
+1 NAME Wilfred /Weaver/
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 DEAT
+2 DATE 1922
+1 CHR
+2 PLAC Corporal of Horse (English Army?)
+1 FAMS @F080@
+1 FAMC @F081@
+0 @I211@ INDI
+1 NAME Arthur /Weaver/
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 CHR
+2 PLAC Explosives Engineer
+1 FAMS @F081@
+0 @I212@ INDI
+1 NAME Belinda Springett /Lunt/
+1 SEX F
+1 BIRT
+2 DATE 1952
+1 CHR
+2 PLAC Dentist
+1 FAMS @F082@
+1 FAMC @F044@
+0 @I213@ INDI
+1 NAME Oliver /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 CHR
+2 PLAC Civil Engineer
+1 FAMS @F083@
+1 FAMC @F044@
+0 @I214@ INDI
+1 NAME Simon /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 CHR
+2 PLAC Royal Naval Chaplain
+1 FAMS @F084@
+1 FAMC @F044@
+0 @I215@ INDI
+1 NAME Robert /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 CHR
+2 PLAC Church of England Minister
+1 FAMS @F085@
+1 FAMC @F044@
+0 @I216@ INDI
+1 NAME Alan /Lunt/
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 FAMS @F082@
+0 @I217@ INDI
+1 NAME Jonathan /Lunt/
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F082@
+0 @I218@ INDI
+1 NAME Christopher /Lunt/
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMC @F082@
+0 @I219@ INDI
+1 NAME Alexander /Lunt/
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMC @F082@
+0 @I220@ INDI
+1 NAME Kare Fuller /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1952
+1 FAMS @F083@
+0 @I221@ INDI
+1 NAME Alison /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMC @F083@
+0 @I222@ INDI
+1 NAME Jennifer /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMC @F083@
+0 @I223@ INDI
+1 NAME Carol Nash /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 CHR
+2 PLAC Teacher
+1 FAMS @F084@
+0 @I224@ INDI
+1 NAME Paul /Springett/
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMC @F084@
+0 @I225@ INDI
+1 NAME Sarah /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMC @F084@
+0 @I226@ INDI
+1 NAME Mary /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F084@
+0 @I227@ INDI
+1 NAME Helen Bates /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 CHR
+2 PLAC Civil Service - Jack's note was lost in copying
+1 FAMS @F085@
+0 @I228@ INDI
+1 NAME Charlotte /Springett/
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F085@
+0 @I229@ INDI
+1 NAME Norine /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 FAMS @F010@
+0 @I230@ INDI
+1 NAME Meagan /Churbuck/
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 CHR
+2 PLAC Fred and Norine adopted her.
+1 FAMC @F010@
+0 @I231@ INDI
+1 NAME George /Churbuck/
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMC @F010@
+0 @I232@ INDI
+1 NAME Fredrick /Churbuck/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 1976
+1 FAMC @F010@
+0 @I233@ INDI
+1 NAME Arthur Louis /Rice/
+1 SEX M
+1 BIRT
+2 DATE 14 May 1870
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 10 Nov 1946
+2 PLAC Barrington, Illinois
+1 FCOM
+2 PLAC Memorial Chicago cemetary
+1 FAMS @F086@
+1 FAMS @F088@
+1 FAMC @F089@
+0 @I234@ INDI
+1 NAME Annie Emmaline Cook /Rice/
+1 SEX F
+1 BIRT
+2 DATE 6 Oct 1871
+2 PLAC Warwick, Mass
+1 DEAT
+2 DATE 10 Jul 1922
+2 PLAC Barrington, Illinois
+1 FAMS @F086@
+1 FAMC @F118@
+0 @I235@ INDI
+1 NAME Kingsley Loring /Rice/
+1 SEX M
+1 BIRT
+2 DATE 24 Aug 1898
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 16 Aug 1960
+2 PLAC Winnetka, Illinois
+1 FAMS @F117@
+1 FAMC @F086@
+0 @I236@ INDI
+1 NAME Elisabeth B. Rice /Gariepy/
+1 SEX F
+1 BIRT
+2 DATE 23 Jan 1905
+2 PLAC Wilmette, Illinois
+1 DEAT
+2 DATE 12 Aug 1981
+2 PLAC Glen Ellyn, Illinois
+1 FAMS @F087@
+1 FAMC @F086@
+0 @I237@ INDI
+1 NAME Armand /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 31 Jul 1901
+2 PLAC Barre, Mass
+1 FAMS @F087@
+1 FAMC @F104@
+0 @I238@ INDI
+1 NAME Madge Waters /Rice/
+1 SEX F
+1 BIRT
+2 DATE 18 Sep 1895
+2 PLAC Miami, Florida
+1 DEAT
+2 DATE 20 Apr 1984
+2 PLAC Wilmette, Illinois
+1 FAMS @F088@
+0 @I239@ INDI
+1 NAME Reginald Waters /Rice/
+1 SEX M
+1 BIRT
+2 DATE 30 Jun 1929
+2 PLAC Evanston, Illinois
+1 FAMS @F057@
+1 FAMC @F088@
+0 @I240@ INDI
+1 NAME Alice Graham /Rice/
+1 SEX F
+1 BIRT
+2 DATE 8 Sep 1931
+2 PLAC Lakeland, Florida
+1 FAMS @F057@
+0 @I241@ INDI
+1 NAME John Stuart /Rice/
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1960
+2 PLAC Palo Alto, California
+1 FAMS @F062@
+1 FAMC @F057@
+0 @I242@ INDI
+1 NAME Stephen Philip /Rice/
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1955
+2 PLAC Palo Alto, California
+1 FAMS @F064@
+1 FAMC @F057@
+0 @I243@ INDI
+1 NAME Nida Brinkas /Rice/
+1 SEX F
+1 BIRT
+2 DATE 5 May 1966
+2 PLAC San Diego, California
+1 FAMS @F062@
+0 @I244@ INDI
+1 NAME Sally Browne /Rice/
+1 SEX F
+1 BIRT
+2 DATE 30 Jan 1957
+2 PLAC Menlo Park, California
+1 FAMS @F064@
+0 @I245@ INDI
+1 NAME Sarah Whitney /Rice/
+1 SEX F
+1 BIRT
+2 DATE 25 Feb 1986
+2 PLAC Santa Monica, California
+1 FAMC @F064@
+0 @I246@ INDI
+1 NAME Jordan Grayson /Rice/
+1 SEX M
+1 BIRT
+2 DATE 11 Sep 1988
+2 PLAC Woodland Hills, California
+1 FAMC @F064@
+0 @I247@ INDI
+1 NAME Lucas Wyatt /Rice/
+1 SEX M
+1 BIRT
+2 DATE 7 Feb 1992
+2 PLAC Woodland Hills, California
+1 FAMC @F064@
+0 @I248@ INDI
+1 NAME Henry E. /Rice/
+1 SEX M
+1 BIRT
+2 DATE 17 Jan 1823
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 6 Apr 1880
+2 PLAC Barre, Mass
+1 FAMS @F089@
+1 FAMC @F090@
+0 @I249@ INDI
+1 NAME Elizabeth F. Rawson /Rice/
+1 SEX F
+1 BIRT
+2 DATE 7 Jan 1828
+1 DEAT
+2 DATE 28 Jul 1905
+2 PLAC Barre, Mass
+1 FAMS @F089@
+0 @I250@ INDI
+1 NAME Francis /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1782
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 25 Oct 1877
+2 PLAC Barre, Mass
+1 FAMS @F090@
+1 FAMC @F096@
+0 @I251@ INDI
+1 NAME Nancy Brigham /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1785
+1 FAMS @F090@
+0 @I252@ INDI
+1 NAME Elizabeth /Rice/
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 1861
+1 DEAT
+2 DATE 15 Oct 1862
+1 FAMC @F089@
+0 @I253@ INDI
+1 NAME Daniel Herbert /Rice/
+1 SEX M
+1 BIRT
+2 DATE 3 Feb 1863
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 6 Jun 1930
+1 FAMS @F091@
+1 FAMS @F092@
+1 FAMC @F089@
+0 @I254@ INDI
+1 NAME Helen Rosina (Rose) White /Rice/
+1 SEX F
+1 BIRT
+2 DATE 12 May 1863
+1 DEAT
+2 DATE 22 Jul 1889
+1 FAMS @F091@
+1 FAMC @F119@
+0 @I255@ INDI
+1 NAME Jennie Adams /Rice/
+1 SEX F
+1 BIRT
+2 DATE 7 Dec 1864
+1 DEAT
+2 DATE 6 Apr 1938
+1 CHR
+2 PLAC Had 6 children - names in the "Rice book"
+1 FAMS @F092@
+0 @I256@ INDI
+1 NAME Frank H. /Rice/
+1 SEX M
+1 BIRT
+2 DATE 23 Feb 1854
+1 DEAT
+2 DATE 28 Aug 1917
+2 PLAC Oakland, California
+1 FAMS @F093@
+1 FAMC @F089@
+0 @I257@ INDI
+1 NAME Lois J. Davis /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1 Jan 1865
+2 PLAC Oakland, California
+1 DEAT
+2 DATE 27 Jul 1947
+2 PLAC Oakland California
+1 FAMS @F093@
+0 @I258@ INDI
+1 NAME Fanny /Rice/
+1 SEX F
+1 BIRT
+2 DATE 22 Oct 1852
+2 PLAC Chicago, Illinois
+1 DEAT
+2 DATE 4 May 1928
+2 PLAC Wilmette, Illinois
+1 FAMS @F094@
+1 FAMC @F089@
+0 @I259@ INDI
+1 NAME Seymour Albert /Wheelock/
+1 SEX M
+1 BIRT
+2 DATE 20 Apr 1848
+2 PLAC Wilmette, Illinois
+1 DEAT
+2 DATE 15 Dec 1936
+2 PLAC Wilmette, Illinois
+1 FAMS @F094@
+1 FAMS @F121@
+0 @I260@ INDI
+1 NAME Olive /Rice/
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1851
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 16 Jun 1919
+2 PLAC Barre, Mass
+1 FAMS @F095@
+1 FAMC @F089@
+0 @I261@ INDI
+1 NAME Henry H. /Brigham/
+1 SEX M
+1 BIRT
+2 DATE 8 Dec 1846
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 24 Mar 1891
+2 PLAC Barre, Mass
+1 FAMS @F095@
+0 @I262@ INDI
+1 NAME Henrietta Harrison Brigham /Schussman/
+1 SEX F
+1 BIRT
+2 DATE 21 Jun 1891
+2 PLAC Barre, Mass
+1 CHR
+2 PLAC Lives in Arcata, California as of 1981
+1 FAMC @F095@
+0 @I263@ INDI
+1 NAME Myron Pinkerton /Brigham/
+1 SEX M
+1 BIRT
+2 DATE 13 Aug 1883
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 9 Jul 1906
+2 PLAC Chain of Lakes, Wisconsin
+1 CHR
+2 PLAC Lives in Redwood City, California in 1981
+1 FAMC @F095@
+0 @I264@ INDI
+1 NAME Thomas /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1741
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 1822
+2 PLAC Barre, Mass
+1 CHR
+2 PLAC 3rd Son
+1 FAMS @F096@
+1 FAMC @F097@
+0 @I265@ INDI
+1 NAME Sarah Nurse /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1745
+1 FAMS @F096@
+0 @I266@ INDI
+1 NAME Jonas /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1707
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 1793
+2 PLAC Barre, Mass
+1 CHR
+2 PLAC 2nd son
+1 FAMS @F097@
+1 FAMC @F098@
+0 @I267@ INDI
+1 NAME Jane Hall /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1710
+1 FAMS @F097@
+0 @I268@ INDI
+1 NAME Jonas /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1672
+2 PLAC Worcestor, Mass
+1 DEAT
+2 DATE 1753
+2 PLAC Worcestor, Mass
+1 CHR
+2 PLAC 8th Son
+1 FAMS @F098@
+1 FAMC @F099@
+0 @I269@ INDI
+1 NAME Mary Stone /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1675
+1 FAMS @F098@
+0 @I270@ INDI
+1 NAME Thomas /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1625
+2 PLAC Marlboro, Mass
+1 DEAT
+2 DATE 1681
+2 PLAC Marlboro, Mass
+1 FAMS @F099@
+1 FAMC @F100@
+0 @I271@ INDI
+1 NAME Mary King /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1635
+1 FAMS @F099@
+0 @I272@ INDI
+1 NAME Edmund /Rice/
+1 SEX M
+1 BIRT
+2 DATE 1594
+2 PLAC Sudbury, Mass
+1 DEAT
+2 DATE 1663
+2 PLAC Sudbury, Mass
+1 FAMS @F100@
+0 @I273@ INDI
+1 NAME Thomasine Frost /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1600
+1 FAMS @F100@
+0 @I274@ INDI
+1 NAME Carol Lee /Fingulin/
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 FAMS @F017@
+1 FAMC @F101@
+0 @I275@ INDI
+1 NAME Emily Anne /Douglass/
+1 SEX F
+1 BIRT
+2 DATE 14 Aug 1944
+1 FAMS @F136@
+1 FAMC @F017@
+0 @I276@ INDI
+1 NAME Carol Lee /Rice/
+1 SEX F
+1 BIRT
+2 DATE 28 May 1941
+1 FAMC @F017@
+0 @I277@ INDI
+1 NAME Arthur /Fingulin/
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 FAMS @F101@
+0 @I278@ INDI
+1 NAME Gerald B. /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 24 Mar 1932
+2 PLAC St. Louis, Missouri
+1 FAMC @F087@
+0 @I279@ INDI
+1 NAME Lawrence /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1933
+1 FAMC @F087@
+0 @I280@ INDI
+1 NAME Richard R. /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1937
+2 PLAC New Rochelle, New York
+1 FAMS @F103@
+1 FAMC @F087@
+0 @I281@ INDI
+1 NAME Susan L. Gariepy /Bryant/
+1 SEX F
+1 BIRT
+2 DATE 22 Mar 1939
+2 PLAC New Rochelle, New York
+1 FAMS @F102@
+1 FAMC @F087@
+0 @I282@ INDI
+1 NAME Roger L. /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 8 May 1945
+2 PLAC Plainfield, New Jersey
+1 FAMC @F087@
+0 @I283@ INDI
+1 NAME Douglas E. /Bryant/
+1 SEX M
+1 BIRT
+2 DATE 1937
+1 FAMS @F102@
+0 @I284@ INDI
+1 NAME Shirley /Scott/
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 FAMS @F103@
+0 @I285@ INDI
+1 NAME Joseph O. /Gariepy/
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 FAMS @F104@
+0 @I286@ INDI
+1 NAME Edward Alvan /Rice/
+1 SEX M
+1 BIRT
+2 DATE 22 Jun 1895
+2 PLAC Barre, Mass
+1 DEAT
+2 DATE 10 Jun 1954
+2 PLAC Claremont, New Hampshire
+1 FAMS @F105@
+1 FAMC @F091@
+0 @I287@ INDI
+1 NAME Marion Boynton /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1898
+1 FAMS @F105@
+0 @I288@ INDI
+1 NAME Herbert Arthur /Rice/
+1 SEX M
+1 BIRT
+2 DATE 28 Nov 1896
+2 PLAC Barre, Mass
+1 FAMS @F106@
+1 FAMC @F091@
+0 @I289@ INDI
+1 NAME Rachel Ballou /Rice/
+1 SEX F
+1 BIRT
+2 DATE 5 Jun 1896
+2 PLAC Barre, Mass
+1 FAMS @F106@
+0 @I290@ INDI
+1 NAME Bertyne Rice /Smith/
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1930
+2 PLAC Barre, Mass
+1 FAMS @F107@
+1 FAMC @F106@
+0 @I291@ INDI
+1 NAME Donald Spencer /Smith/
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 FAMS @F107@
+0 @I292@ INDI
+1 NAME Stanley Irving /Rice/
+1 SEX M
+1 BIRT
+2 DATE 3 Oct 1898
+2 PLAC Barre, Mass
+1 FAMS @F108@
+1 FAMC @F091@
+0 @I293@ INDI
+1 NAME Daniel Henry /Rice/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 25 May 1901
+2 PLAC Barre, Mass
+1 FAMS @F115@
+1 FAMC @F091@
+0 @I294@ INDI
+1 NAME Katrina Hackett Davies /Rice/
+1 SEX F
+1 BIRT
+2 DATE 23 Jun 1906
+2 PLAC Northhampton, Mass
+1 FAMS @F108@
+0 @I295@ INDI
+1 NAME Stanley Irving /Rice/, Jr.
+1 SEX M
+1 BIRT
+2 DATE 21 May 1930
+2 PLAC Pittsfield, Mass
+1 FAMS @F109@
+1 FAMS @F110@
+1 FAMS @F111@
+1 FAMC @F108@
+0 @I296@ INDI
+1 NAME Richard Edward /Rice/
+1 SEX M
+1 BIRT
+2 DATE 28 Sep 1934
+1 FAMS @F114@
+1 FAMC @F108@
+0 @I297@ INDI
+1 NAME Frederick Herbert /Rice/
+1 SEX M
+1 BIRT
+2 DATE 10 Apr 1936
+2 PLAC Worcester, Mass
+1 FAMS @F112@
+1 FAMC @F108@
+0 @I298@ INDI
+1 NAME Dorotha Ann /Rice/
+1 SEX F
+1 BIRT
+2 DATE 21 Dec 1937
+2 PLAC Worcester, Mass
+1 DEAT
+2 DATE 9 Jun 1953
+2 PLAC Worcester, Mass
+1 FAMC @F108@
+0 @I299@ INDI
+1 NAME Iris Violet Palmer /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMS @F109@
+0 @I300@ INDI
+1 NAME Mary Edith Ruff /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMS @F110@
+0 @I301@ INDI
+1 NAME Mary Elizabeth /Teagher/
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMS @F111@
+0 @I302@ INDI
+1 NAME Jeanne Ann Voegtle /Rice/
+1 SEX F
+1 BIRT
+2 DATE 5 Dec 1929
+2 PLAC Hamilton, Ohio
+1 FAMS @F112@
+1 FAMC @F113@
+0 @I303@ INDI
+1 NAME William E. /Voegtle/
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 FAMS @F113@
+0 @I304@ INDI
+1 NAME Jeanne Claire Kapp /Voegtle/
+1 SEX F
+1 BIRT
+2 DATE 1897
+1 FAMS @F113@
+0 @I305@ INDI
+1 NAME Joan Cerulle /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 FAMS @F114@
+0 @I306@ INDI
+1 NAME Helen Martha /Rice/
+1 SEX F
+1 BIRT
+2 DATE 10 Jul 1903
+2 PLAC Westfield, Mass
+1 FAMS @F115@
+0 @I307@ INDI
+1 NAME Daniel Henry /Rice/ III
+1 SEX M
+1 BIRT
+2 DATE 19 Aug 1933
+2 PLAC Worcester, Mass
+1 FAMS @F116@
+1 FAMC @F115@
+0 @I308@ INDI
+1 NAME Nancy Elizabeth /Rice/
+1 SEX F
+1 BIRT
+2 DATE 29 Jun 1938
+1 FAMC @F115@
+0 @I309@ INDI
+1 NAME Carol Webster /Ramsey/
+1 SEX F
+1 BIRT
+2 DATE 11 Nov 1934
+2 PLAC Worcester, Mass
+1 FAMS @F116@
+0 @I310@ INDI
+1 NAME Mary /Rice/
+1 SEX F
+1 BIRT
+2 DATE 1900
+1 DEAT
+2 DATE 1902
+2 PLAC Brooklyn, New York
+1 CHR
+2 PLAC Buried at Glen Valley in Barre, Mass
+1 FAMC @F086@
+0 @I311@ INDI
+1 NAME Mary M. /Judson/
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 FAMS @F117@
+0 @I312@ INDI
+1 NAME James O. /Cook/
+1 SEX M
+1 BIRT
+2 DATE 6 Oct 1871
+2 PLAC Waterbury, Conn.
+1 DEAT
+2 DATE 10 Jul 1922
+2 PLAC Wilmette, Illinois
+1 CHR
+2 PLAC Buried at Barret Glen Virginia
+1 FAMS @F118@
+0 @I313@ INDI
+1 NAME T. Hanson /White/
+1 SEX M
+1 BIRT
+2 DATE 1838
+1 FAMS @F119@
+0 @I314@ INDI
+1 NAME Mary Rusina /White/
+1 SEX F
+1 BIRT
+2 DATE 1840
+1 FAMS @F119@
+0 @I315@ INDI
+1 NAME Mary Rosina /Rice/
+1 SEX F
+1 BIRT
+2 DATE 22 May 1889
+2 PLAC Charlton, Mass
+1 FAMS @F120@
+1 FAMC @F091@
+0 @I316@ INDI
+1 NAME Guy /Rich/
+1 SEX M
+1 BIRT
+2 DATE 1887
+1 FAMS @F120@
+0 @I317@ INDI
+1 NAME Jennie Adelaide Adams /Rich/
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 FAMC @F120@
+0 @I318@ INDI
+1 NAME Dorothea Bell /Rice/
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1893
+1 DEAT
+2 DATE 20 Jul 1952
+2 PLAC Worcester, Mass
+1 FAMC @F091@
+0 @I319@ INDI
+1 NAME Florence Alley /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 1875
+2 PLAC New Salem and Boston, Mass
+1 FAMS @F121@
+0 @I320@ INDI
+1 NAME Bertha Calista /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 9 Jan 1873
+2 PLAC Chicago, Illinois
+1 DEAT
+2 DATE 10 Jan 1934
+1 FAMC @F094@
+0 @I321@ INDI
+1 NAME Seymour Edwin /Wheelock/
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1879
+2 PLAC Chicago, Illinois
+1 FAMS @F122@
+1 FAMC @F094@
+0 @I322@ INDI
+1 NAME Louise Nance /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 1882
+1 FAMS @F122@
+0 @I323@ INDI
+1 NAME Bessie Edith /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 30 Dec 1882
+2 PLAC Chicago, Illinois
+1 FAMS @F125@
+1 FAMC @F094@
+0 @I324@ INDI
+1 NAME Grace /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 30 Mar 1885
+1 FAMS @F124@
+1 FAMC @F094@
+0 @I325@ INDI
+1 NAME Raymond Alexander /Wheelock/
+1 SEX M
+1 BIRT
+2 DATE 25 Jun 1887
+1 FAMS @F126@
+1 FAMC @F094@
+0 @I326@ INDI
+1 NAME Daniel Henry /Wheelock/
+1 SEX M
+1 BIRT
+2 DATE 25 May 1901
+2 PLAC Barre, Mass
+1 FAMS @F123@
+1 FAMC @F094@
+0 @I327@ INDI
+1 NAME Helen Martha Rice /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 FAMS @F123@
+0 @I328@ INDI
+1 NAME Edward Hiatt /Burge/
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 FAMS @F124@
+0 @I329@ INDI
+1 NAME Myron F. /Kirk/
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 FAMS @F125@
+0 @I330@ INDI
+1 NAME Alameda Lewis /Wheelock/
+1 SEX F
+1 BIRT
+2 DATE 1889
+1 FAMS @F126@
+0 @I331@ INDI
+1 NAME Francis Henry /Brigham/
+1 SEX M
+1 BIRT
+2 DATE 3 Nov 1873
+2 PLAC Hubbardston, Mass
+1 FAMS @F127@
+1 FAMC @F095@
+0 @I332@ INDI
+1 NAME Alice Schock /Brigham/
+1 SEX F
+1 BIRT
+2 DATE 1880
+1 FAMS @F127@
+0 @I333@ INDI
+1 NAME Natalie Paige /Moore/
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1991
+1 FAMC @F049@
+0 @I334@ INDI
+1 NAME John Patrick /Paladino/
+1 SEX M
+1 BIRT
+2 DATE 17 Mar 1941
+1 FAMS @F011@
+0 @I335@ INDI
+1 NAME Lisa Marie /Paladino/
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1969
+1 FAMC @F011@
+0 @I336@ INDI
+1 NAME Laura Michele /Paladino/
+1 SEX F
+1 BIRT
+2 DATE 22 Feb 1970
+1 FAMS @F135@
+1 FAMC @F011@
+0 @I337@ INDI
+1 NAME Leslie Renee /Paladino/
+1 SEX F
+1 BIRT
+2 DATE 23 Feb 1974
+1 FAMC @F011@
+0 @I338@ INDI
+1 NAME Alice Poppy /Clark/
+1 SEX F
+1 BIRT
+2 DATE 1890
+1 FAMS @F012@
+0 @I339@ INDI
+1 NAME ? /Clark/
+1 SEX M
+1 BIRT
+2 DATE 1890
+1 FAMS @F012@
+0 @I340@ INDI
+1 NAME Joseph /Pirages/
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1890
+2 PLAC Lithuania
+1 DEAT
+2 DATE 1977
+2 PLAC Rockford, Illinois
+1 FAMS @F013@
+0 @I341@ INDI
+1 NAME Pauleen Zbuas /Pirages/
+1 SEX F
+1 BIRT
+2 DATE 1890
+2 PLAC Lithuania
+1 DEAT
+2 DATE 1983
+2 PLAC Rockford, Illinois
+1 FAMS @F013@
+0 @I342@ INDI
+1 NAME Mary Kerns /Crowell/
+1 SEX F
+1 BIRT
+2 DATE Feb 1914
+1 FAMS @F014@
+0 @I343@ INDI
+1 NAME Raymond /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 25 May 1942
+1 FAMC @F014@
+0 @I344@ INDI
+1 NAME James Harold /Crowell/
+1 SEX M
+1 BIRT
+2 DATE 21 Mar 1947
+1 FAMC @F014@
+0 @I345@ INDI
+1 NAME Hope /Green/
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 DEAT
+2 DATE 1980
+1 CHR
+2 PLAC Worker in plastics factory
+1 BURI
+2 PLAC Emphysema
+1 FAMS @F130@
+0 @I346@ INDI
+1 NAME Eleanor Hawthorne /Crowell/
+1 SEX F
+1 BAPM
+2 PLAC alcoholic
+1 FAMS @F131@
+0 @I347@ INDI
+1 NAME Rose /Zalus/
+1 SEX F
+1 BIRT
+2 DATE 14 Sep 1889
+1 FAMS @F058@
+1 FAMC @F004@
+0 @I348@ INDI
+1 NAME Paul (Sonny) /Kirchoff/
+1 SEX M
+1 BIRT
+2 DATE 1919
+2 PLAC Chicago, Illinois
+1 DEAT
+2 DATE 1992
+2 PLAC Chicago, Illinois
+1 FAMS @F128@
+1 FAMC @F058@
+0 @I349@ INDI
+1 NAME Dorothy Spain /Kirchoff/
+1 SEX F
+1 FAMS @F128@
+0 @I350@ INDI
+1 NAME Hugo /Pelletiere/
+1 SEX M
+1 BIRT
+2 DATE 1929
+1 FAMS @F132@
+1 FAMC @F058@
+0 @I351@ INDI
+1 NAME George /Pelletiere/
+1 SEX M
+1 FAMS @F058@
+0 @I352@ INDI
+1 NAME Marie /Pelletiere/
+1 SEX F
+1 FAMS @F132@
+0 @I353@ INDI
+1 NAME William /Dougherty/
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 CHR
+2 PLAC Electrical Contractor
+1 FAMS @F133@
+0 @I354@ INDI
+1 NAME Krista /Dougherty/
+1 SEX F
+1 FAMC @F133@
+0 @I355@ INDI
+1 NAME Bill /Dougherty/
+1 SEX M
+1 FAMC @F133@
+0 @I356@ INDI
+1 NAME Michael Henby /Grzywinski/
+1 SEX M
+1 FAMS @F129@
+1 FAMC @F134@
+0 @I357@ INDI
+1 NAME Dennis /Grzywinski/
+1 SEX M
+1 FAMS @F134@
+0 @I358@ INDI
+1 NAME Patrick Michael /Pipitone/
+1 SEX M
+1 FAMS @F135@
+0 @I359@ INDI
+1 NAME Jon /Douglass/
+1 SEX M
+1 FAMS @F136@
+0 @I360@ INDI
+1 NAME Heidi /Douglass/
+1 SEX F
+1 FAMC @F136@
+0 @I361@ INDI
+1 NAME Heather /Douglass/
+1 SEX F
+1 FAMC @F136@
+0 @I362@ INDI
+1 NAME Hillary /Douglass/
+1 SEX F
+1 FAMC @F136@
+0 @I363@ INDI
+1 NAME Holly /Douglass/
+1 SEX F
+1 FAMC @F136@
+0 @I364@ INDI
+1 NAME Lois /Long/
+1 SEX F
+1 FAMS @F069@
+0 @I365@ INDI
+1 NAME Gary Dean /Schneider/
+1 SEX M
+1 FAMS @F137@
+0 @I366@ INDI
+1 NAME Craig Allen /Scheider/
+1 SEX M
+1 BIRT
+2 DATE 15 Jul 1972
+1 FAMC @F137@
+0 @I367@ INDI
+1 NAME Christina Marie /Schneider/
+1 SEX F
+1 BIRT
+2 DATE 19 Jul 1976
+1 FAMC @F137@
+0 @I368@ INDI
+1 NAME Kathleen Jeanette /Rogers/
+1 SEX F
+1 BIRT
+2 DATE 27 Mar 1961
+1 FAMS @F138@
+0 @I369@ INDI
+1 NAME Matthew Allen /Michel/
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1993
+1 FAMC @F138@
+0 @F001@ FAM
+1 HUSB @I001@
+1 WIFE @I002@
+1 CHIL @I003@
+1 CHIL @I004@
+1 CHIL @I005@
+1 CHIL @I006@
+1 MARR
+2 DATE 29 May 1983
+2 PLAC Portola Valley, California
+0 @F002@ FAM
+1 HUSB @I143@
+1 WIFE @I095@
+0 @F003@ FAM
+1 HUSB @I151@
+1 CHIL @I144@
+1 CHIL @I150@
+0 @F004@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I017@
+1 CHIL @I347@
+1 MARR
+2 DATE 1888
+2 PLAC Des Plaines, Illinois
+0 @F005@ FAM
+1 HUSB @I146@
+1 WIFE @I145@
+0 @F006@ FAM
+1 HUSB @I144@
+1 WIFE @I147@
+1 CHIL @I148@
+1 CHIL @I149@
+0 @F007@ FAM
+1 HUSB @I152@
+1 WIFE @I153@
+1 CHIL @I145@
+0 @F008@ FAM
+1 WIFE @I178@
+1 CHIL @I179@
+1 CHIL @I180@
+0 @F009@ FAM
+1 HUSB @I189@
+1 WIFE @I187@
+1 CHIL @I190@
+1 CHIL @I191@
+2 ADOP
+0 @F010@ FAM
+1 HUSB @I167@
+1 WIFE @I229@
+1 CHIL @I230@
+2 ADOP
+1 CHIL @I231@
+1 CHIL @I232@
+0 @F011@ FAM
+1 HUSB @I334@
+1 WIFE @I184@
+1 CHIL @I335@
+1 CHIL @I336@
+1 CHIL @I337@
+0 @F012@ FAM
+1 HUSB @I339@
+1 WIFE @I338@
+1 CHIL @I112@
+0 @F013@ FAM
+1 HUSB @I340@
+1 WIFE @I341@
+1 CHIL @I111@
+0 @F014@ FAM
+1 HUSB @I131@
+1 WIFE @I342@
+1 CHIL @I343@
+1 CHIL @I344@
+0 @F015@ FAM
+1 HUSB @I007@
+1 WIFE @I008@
+1 CHIL @I001@
+1 CHIL @I009@
+1 CHIL @I010@
+1 CHIL @I011@
+1 MARR
+2 DATE 25 Jul 1936
+2 PLAC Chicago, Illinois
+0 @F016@ FAM
+1 HUSB @I015@
+1 WIFE @I010@
+1 CHIL @I012@
+1 CHIL @I013@
+1 CHIL @I014@
+1 MARR
+2 DATE 6 Sep 1968
+2 PLAC Barrington, Illinois
+0 @F017@ FAM
+1 HUSB @I016@
+1 WIFE @I274@
+1 CHIL @I015@
+1 CHIL @I275@
+1 CHIL @I276@
+1 MARR
+2 DATE 9 Sep 1939
+2 PLAC Webster Groves, Missouri
+0 @F018@ FAM
+1 HUSB @I017@
+1 WIFE @I018@
+1 CHIL @I008@
+1 CHIL @I019@
+1 CHIL @I023@
+0 @F019@ FAM
+1 HUSB @I020@
+1 WIFE @I021@
+1 CHIL @I018@
+1 CHIL @I022@
+1 MARR
+2 PLAC Chicago, Illinois
+0 @F020@ FAM
+1 HUSB @I027@
+1 WIFE @I023@
+1 CHIL @I024@
+1 CHIL @I025@
+1 CHIL @I026@
+0 @F021@ FAM
+1 HUSB @I027@
+1 WIFE @I028@
+0 @F022@ FAM
+1 HUSB @I036@
+1 WIFE @I069@
+1 CHIL @I007@
+1 CHIL @I064@
+1 CHIL @I065@
+1 MARR
+2 PLAC Chicago, Illinois
+0 @F023@ FAM
+1 HUSB @I068@
+1 WIFE @I067@
+1 CHIL @I090@
+1 CHIL @I091@
+0 @F024@ FAM
+1 HUSB @I029@
+1 WIFE @I011@
+1 CHIL @I030@
+1 CHIL @I031@
+1 MARR
+2 DATE 12 Jun 1964
+2 PLAC Hinsdale, Illinois
+0 @F025@ FAM
+1 HUSB @I009@
+1 WIFE @I032@
+1 CHIL @I033@
+1 CHIL @I034@
+1 CHIL @I035@
+1 MARR
+2 DATE 29 May 1978
+2 PLAC Quad Cities, Iowa
+0 @F026@ FAM
+1 HUSB @I037@
+1 WIFE @I038@
+1 CHIL @I002@
+1 CHIL @I039@
+1 CHIL @I040@
+1 MARR
+2 DATE 1 Sep 1951
+2 PLAC Brockton, Mass
+0 @F027@ FAM
+1 HUSB @I039@
+1 WIFE @I041@
+1 CHIL @I042@
+1 CHIL @I043@
+1 MARR
+2 DATE 29 Oct 1983
+2 PLAC Hillsborough
+0 @F028@ FAM
+1 HUSB @I044@
+1 WIFE @I045@
+1 CHIL @I041@
+1 CHIL @I046@
+1 CHIL @I047@
+1 CHIL @I048@
+1 MARR
+2 DATE 23 Jan 1954
+2 PLAC Reno, Nevada
+0 @F029@ FAM
+1 HUSB @I122@
+1 WIFE @I049@
+1 CHIL @I037@
+1 CHIL @I051@
+1 CHIL @I052@
+0 @F030@ FAM
+1 HUSB @I050@
+1 CHIL @I049@
+0 @F031@ FAM
+1 HUSB @I054@
+1 WIFE @I053@
+1 CHIL @I038@
+1 CHIL @I055@
+0 @F032@ FAM
+1 HUSB @I120@
+1 WIFE @I119@
+1 CHIL @I053@
+1 CHIL @I056@
+1 CHIL @I130@
+1 CHIL @I131@
+1 CHIL @I058@
+1 MARR
+2 DATE 7 Oct 1899
+2 PLAC Brockton, Mass
+0 @F033@ FAM
+1 HUSB @I051@
+1 WIFE @I059@
+1 CHIL @I060@
+1 CHIL @I061@
+1 CHIL @I062@
+1 CHIL @I063@
+1 MARR
+2 DATE 22 Nov 1939
+2 PLAC Brockton, Mass.
+0 @F034@ FAM
+1 HUSB @I057@
+1 WIFE @I132@
+1 CHIL @I045@
+0 @F035@ FAM
+1 HUSB @I066@
+1 WIFE @I064@
+1 CHIL @I067@
+0 @F036@ FAM
+1 HUSB @I070@
+1 WIFE @I071@
+1 CHIL @I069@
+1 CHIL @I072@
+1 CHIL @I074@
+1 CHIL @I075@
+1 CHIL @I076@
+0 @F037@ FAM
+1 HUSB @I073@
+1 WIFE @I110@
+1 CHIL @I071@
+0 @F038@ FAM
+1 HUSB @I077@
+1 CHIL @I070@
+1 CHIL @I078@
+1 CHIL @I178@
+0 @F039@ FAM
+1 HUSB @I072@
+1 CHIL @I079@
+0 @F040@ FAM
+1 HUSB @I181@
+1 WIFE @I074@
+1 CHIL @I109@
+1 MARR
+2 DATE 1916
+0 @F041@ FAM
+1 HUSB @I081@
+1 WIFE @I076@
+1 CHIL @I082@
+1 CHIL @I083@
+1 CHIL @I084@
+0 @F042@ FAM
+1 HUSB @I085@
+1 WIFE @I083@
+1 CHIL @I086@
+1 CHIL @I185@
+1 CHIL @I186@
+1 CHIL @I187@
+1 CHIL @I188@
+0 @F043@ FAM
+1 HUSB @I086@
+1 WIFE @I087@
+1 CHIL @I088@
+0 @F044@ FAM
+1 HUSB @I082@
+1 WIFE @I089@
+1 CHIL @I212@
+1 CHIL @I213@
+1 CHIL @I214@
+1 CHIL @I215@
+0 @F045@ FAM
+1 HUSB @I092@
+1 WIFE @I075@
+0 @F046@ FAM
+1 HUSB @I093@
+1 WIFE @I019@
+1 CHIL @I094@
+1 CHIL @I095@
+1 CHIL @I096@
+1 CHIL @I097@
+0 @F047@ FAM
+1 HUSB @I098@
+1 WIFE @I094@
+1 CHIL @I099@
+1 CHIL @I100@
+0 @F048@ FAM
+1 HUSB @I101@
+1 WIFE @I102@
+1 CHIL @I036@
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I105@
+0 @F049@ FAM
+1 HUSB @I106@
+1 WIFE @I095@
+1 CHIL @I107@
+1 CHIL @I108@
+1 CHIL @I333@
+0 @F050@ FAM
+1 HUSB @I111@
+1 WIFE @I112@
+1 CHIL @I032@
+1 MARR
+2 DATE 2 Aug 1942
+2 PLAC Davenport, Iowa
+0 @F051@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I044@
+1 CHIL @I115@
+1 CHIL @I116@
+0 @F052@ FAM
+1 HUSB @I117@
+1 WIFE @I046@
+1 CHIL @I118@
+0 @F053@ FAM
+1 WIFE @I121@
+1 CHIL @I119@
+0 @F054@ FAM
+1 HUSB @I123@
+1 WIFE @I124@
+1 CHIL @I122@
+1 CHIL @I125@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I128@
+1 CHIL @I129@
+1 CHIL @I156@
+1 MARR
+2 DATE 24 Nov 1974
+2 PLAC East Stoughton (now Avon), Mass.
+0 @F055@ FAM
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I132@
+1 CHIL @I135@
+1 CHIL @I136@
+1 CHIL @I137@
+1 CHIL @I138@
+1 CHIL @I139@
+1 CHIL @I140@
+1 CHIL @I141@
+1 CHIL @I142@
+0 @F056@ FAM
+1 HUSB @I080@
+1 WIFE @I109@
+1 CHIL @I182@
+1 CHIL @I183@
+1 MARR
+2 DATE 5 Nov 1940
+2 PLAC Divorced 1972
+0 @F057@ FAM
+1 HUSB @I239@
+1 WIFE @I240@
+1 CHIL @I241@
+1 CHIL @I242@
+1 MARR
+2 DATE 18 Dec 1954
+2 PLAC Cincinatti, Ohio
+0 @F058@ FAM
+1 HUSB @I351@
+1 WIFE @I347@
+1 CHIL @I348@
+1 CHIL @I350@
+0 @F059@ FAM
+1 HUSB @I165@
+1 WIFE @I166@
+1 CHIL @I029@
+1 CHIL @I167@
+1 CHIL @I168@
+0 @F060@ FAM
+1 HUSB @I169@
+1 WIFE @I170@
+1 CHIL @I165@
+1 CHIL @I174@
+1 CHIL @I175@
+1 CHIL @I176@
+0 @F061@ FAM
+1 HUSB @I171@
+1 CHIL @I170@
+0 @F062@ FAM
+1 HUSB @I241@
+1 WIFE @I243@
+1 MARR
+2 DATE 28 Jul 1990
+2 PLAC San Diego, California
+0 @F063@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 CHIL @I123@
+0 @F064@ FAM
+1 HUSB @I242@
+1 WIFE @I244@
+1 CHIL @I245@
+1 CHIL @I246@
+1 CHIL @I247@
+1 MARR
+2 DATE 26 Aug 1984
+2 PLAC Menlo Park, California
+0 @F065@ FAM
+1 HUSB @I154@
+1 WIFE @I065@
+1 CHIL @I155@
+1 CHIL @I184@
+0 @F066@ FAM
+1 HUSB @I161@
+1 CHIL @I159@
+1 CHIL @I162@
+1 CHIL @I163@
+0 @F067@ FAM
+1 HUSB @I158@
+1 CHIL @I160@
+1 CHIL @I157@
+1 CHIL @I164@
+0 @F068@ FAM
+1 HUSB @I172@
+1 WIFE @I173@
+1 CHIL @I166@
+0 @F069@ FAM
+1 HUSB @I079@
+1 WIFE @I364@
+0 @F070@ FAM
+1 WIFE @I177@
+1 CHIL @I054@
+1 MARR
+2 DATE 1880
+0 @F071@ FAM
+1 HUSB @I192@
+1 WIFE @I188@
+1 CHIL @I193@
+1 CHIL @I194@
+0 @F072@ FAM
+1 HUSB @I195@
+1 WIFE @I194@
+1 CHIL @I196@
+1 CHIL @I197@
+0 @F073@ FAM
+1 HUSB @I086@
+1 WIFE @I198@
+0 @F074@ FAM
+1 HUSB @I086@
+1 WIFE @I199@
+0 @F075@ FAM
+1 HUSB @I200@
+1 WIFE @I088@
+0 @F076@ FAM
+1 HUSB @I201@
+1 WIFE @I202@
+1 CHIL @I081@
+1 CHIL @I206@
+1 CHIL @I209@
+0 @F077@ FAM
+1 HUSB @I203@
+1 WIFE @I202@
+0 @F078@ FAM
+1 HUSB @I204@
+1 WIFE @I205@
+1 CHIL @I202@
+0 @F079@ FAM
+1 HUSB @I206@
+1 CHIL @I207@
+1 CHIL @I208@
+0 @F080@ FAM
+1 HUSB @I210@
+1 WIFE @I209@
+0 @F081@ FAM
+1 HUSB @I211@
+1 CHIL @I210@
+0 @F082@ FAM
+1 HUSB @I216@
+1 WIFE @I212@
+1 CHIL @I217@
+1 CHIL @I218@
+1 CHIL @I219@
+0 @F083@ FAM
+1 HUSB @I213@
+1 WIFE @I220@
+1 CHIL @I221@
+1 CHIL @I222@
+0 @F084@ FAM
+1 HUSB @I214@
+1 WIFE @I223@
+1 CHIL @I224@
+1 CHIL @I225@
+1 CHIL @I226@
+0 @F085@ FAM
+1 HUSB @I215@
+1 WIFE @I227@
+1 CHIL @I228@
+0 @F086@ FAM
+1 HUSB @I233@
+1 WIFE @I234@
+1 CHIL @I016@
+1 CHIL @I235@
+1 CHIL @I236@
+1 CHIL @I310@
+1 MARR
+2 DATE 29 Jun 1893
+2 PLAC Barre, Mass
+0 @F087@ FAM
+1 HUSB @I237@
+1 WIFE @I236@
+1 CHIL @I278@
+1 CHIL @I279@
+1 CHIL @I280@
+1 CHIL @I281@
+1 CHIL @I282@
+1 MARR
+2 DATE 15 Sep 1928
+2 PLAC Glen Ellyn, Illinois
+0 @F088@ FAM
+1 HUSB @I233@
+1 WIFE @I238@
+1 CHIL @I239@
+1 MARR
+2 DATE 2 Jan 1928
+2 PLAC Sarasota, Florida
+0 @F089@ FAM
+1 HUSB @I248@
+1 WIFE @I249@
+1 CHIL @I233@
+1 CHIL @I252@
+1 CHIL @I253@
+1 CHIL @I256@
+1 CHIL @I258@
+1 CHIL @I260@
+1 MARR
+2 DATE 28 Mar 1848
+2 PLAC Barre, Mass
+0 @F090@ FAM
+1 HUSB @I250@
+1 WIFE @I251@
+1 CHIL @I248@
+0 @F091@ FAM
+1 HUSB @I253@
+1 WIFE @I254@
+1 CHIL @I286@
+1 CHIL @I288@
+1 CHIL @I292@
+1 CHIL @I293@
+1 CHIL @I315@
+1 CHIL @I318@
+0 @F092@ FAM
+1 HUSB @I253@
+1 WIFE @I255@
+0 @F093@ FAM
+1 HUSB @I256@
+1 WIFE @I257@
+0 @F094@ FAM
+1 HUSB @I259@
+1 WIFE @I258@
+1 CHIL @I320@
+1 CHIL @I321@
+1 CHIL @I323@
+1 CHIL @I324@
+1 CHIL @I325@
+1 CHIL @I326@
+1 MARR
+2 DATE 26 Mar 1872
+2 PLAC Barre, Mass
+0 @F095@ FAM
+1 HUSB @I261@
+1 WIFE @I260@
+1 CHIL @I262@
+1 CHIL @I263@
+1 CHIL @I331@
+1 MARR
+2 DATE 22 Oct 1867
+2 PLAC Barre, Mass
+0 @F096@ FAM
+1 HUSB @I264@
+1 WIFE @I265@
+1 CHIL @I250@
+0 @F097@ FAM
+1 HUSB @I266@
+1 WIFE @I267@
+1 CHIL @I264@
+0 @F098@ FAM
+1 HUSB @I268@
+1 WIFE @I269@
+1 CHIL @I266@
+0 @F099@ FAM
+1 HUSB @I270@
+1 WIFE @I271@
+1 CHIL @I268@
+0 @F100@ FAM
+1 HUSB @I272@
+1 WIFE @I273@
+1 CHIL @I270@
+0 @F101@ FAM
+1 HUSB @I277@
+1 CHIL @I274@
+0 @F102@ FAM
+1 HUSB @I283@
+1 WIFE @I281@
+0 @F103@ FAM
+1 HUSB @I280@
+1 WIFE @I284@
+0 @F104@ FAM
+1 HUSB @I285@
+1 CHIL @I237@
+0 @F105@ FAM
+1 HUSB @I286@
+1 WIFE @I287@
+1 MARR
+2 DATE 10 Feb 1920
+2 PLAC Claremont, New Hampshire
+0 @F106@ FAM
+1 HUSB @I288@
+1 WIFE @I289@
+1 CHIL @I290@
+1 MARR
+2 DATE 14 Aug 1919
+2 PLAC Barre, Mass
+0 @F107@ FAM
+1 HUSB @I291@
+1 WIFE @I290@
+0 @F108@ FAM
+1 HUSB @I292@
+1 WIFE @I294@
+1 CHIL @I295@
+1 CHIL @I296@
+1 CHIL @I297@
+1 CHIL @I298@
+1 MARR
+2 DATE 15 Sep 1928
+2 PLAC Northhampton, Mass
+0 @F109@ FAM
+1 HUSB @I295@
+1 WIFE @I299@
+0 @F110@ FAM
+1 HUSB @I295@
+1 WIFE @I300@
+0 @F111@ FAM
+1 HUSB @I295@
+1 WIFE @I301@
+1 MARR
+2 DATE 5 Sep 1960
+0 @F112@ FAM
+1 HUSB @I297@
+1 WIFE @I302@
+0 @F113@ FAM
+1 HUSB @I303@
+1 WIFE @I304@
+1 CHIL @I302@
+0 @F114@ FAM
+1 HUSB @I296@
+1 WIFE @I305@
+0 @F115@ FAM
+1 HUSB @I293@
+1 WIFE @I306@
+1 CHIL @I307@
+1 CHIL @I308@
+1 MARR
+2 DATE 21 Oct 1928
+2 PLAC Westfield, Mass
+0 @F116@ FAM
+1 HUSB @I307@
+1 WIFE @I309@
+0 @F117@ FAM
+1 HUSB @I235@
+1 WIFE @I311@
+0 @F118@ FAM
+1 HUSB @I312@
+1 CHIL @I234@
+0 @F119@ FAM
+1 HUSB @I313@
+1 WIFE @I314@
+1 CHIL @I254@
+0 @F120@ FAM
+1 HUSB @I316@
+1 WIFE @I315@
+1 CHIL @I317@
+1 MARR
+2 DATE 23 Sep 1891
+2 PLAC Barre, Mass
+0 @F121@ FAM
+1 HUSB @I259@
+1 WIFE @I319@
+1 MARR
+2 DATE 9 Jan 1933
+2 PLAC Boston, Mass
+0 @F122@ FAM
+1 HUSB @I321@
+1 WIFE @I322@
+0 @F123@ FAM
+1 HUSB @I326@
+1 WIFE @I327@
+0 @F124@ FAM
+1 HUSB @I328@
+1 WIFE @I324@
+0 @F125@ FAM
+1 HUSB @I329@
+1 WIFE @I323@
+0 @F126@ FAM
+1 HUSB @I325@
+1 WIFE @I330@
+0 @F127@ FAM
+1 HUSB @I331@
+1 WIFE @I332@
+0 @F128@ FAM
+1 HUSB @I348@
+1 WIFE @I349@
+0 @F129@ FAM
+1 HUSB @I356@
+1 WIFE @I090@
+1 MARR
+2 DATE 9 Jun 1995
+2 PLAC Covenant Church Shaumberg, Illinois
+0 @F130@ FAM
+1 HUSB @I055@
+1 WIFE @I345@
+1 MARR
+2 DATE 1962
+2 PLAC Hope, Rhode Island
+0 @F131@ FAM
+1 HUSB @I058@
+1 WIFE @I346@
+0 @F132@ FAM
+1 HUSB @I350@
+1 WIFE @I352@
+1 MARR
+2 DATE Nov 1950
+0 @F133@ FAM
+1 HUSB @I353@
+1 WIFE @I026@
+1 CHIL @I354@
+1 CHIL @I355@
+0 @F134@ FAM
+1 HUSB @I357@
+1 CHIL @I356@
+0 @F135@ FAM
+1 HUSB @I358@
+1 WIFE @I336@
+1 MARR
+2 DATE 7 Oct 1995
+2 PLAC Holy Trinity Church, 4401 Highcrest Road, Rockford, Illinois
+0 @F136@ FAM
+1 HUSB @I359@
+1 WIFE @I275@
+1 CHIL @I360@
+1 CHIL @I361@
+1 CHIL @I362@
+1 CHIL @I363@
+1 MARR
+2 DATE 1970
+0 @F137@ FAM
+1 HUSB @I365@
+1 WIFE @I182@
+1 CHIL @I366@
+1 CHIL @I367@
+1 MARR
+2 DATE 22 Aug 1967
+2 PLAC Divorced 1995
+0 @F138@ FAM
+1 HUSB @I183@
+1 WIFE @I368@
+1 CHIL @I369@
+1 MARR
+2 DATE 18 Jan 1992
+0 TRLR
